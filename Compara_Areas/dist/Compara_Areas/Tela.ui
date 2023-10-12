@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>467</width>
+    <height>185</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>441</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Autenticação</string>
+   </property>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>179</x>
+      <y>19</y>
+      <width>40</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Senha:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Atualizar">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>15</y>
+      <width>71</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Atualizar</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>47</width>
+      <height>13</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Usuário:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="TxtSenha">
+    <property name="geometry">
+     <rect>
+      <x>219</x>
+      <y>17</y>
+      <width>113</width>
+      <height>20</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="TxtUsuario">
+    <property name="geometry">
+     <rect>
+      <x>53</x>
+      <y>17</y>
+      <width>101</width>
+      <height>20</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="chkSenha">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>40</y>
+      <width>111</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Exibir Senha</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>8</x>
+     <y>97</y>
+     <width>441</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Comparação de Áreas</string>
+   </property>
+   <widget class="QToolButton" name="Btn_Comparar">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>36</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>111</width>
+      <height>0</height>
+     </size>
+    </property>
+    <property name="text">
+     <string>Comparar</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="Cbo_Ferramenta_1">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>141</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>20</y>
+      <width>131</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Ferramenta 1</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>131</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Ferramenta 1</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="Cbo_Ferramenta_2">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>40</y>
+      <width>151</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>TxtUsuario</tabstop>
+  <tabstop>TxtSenha</tabstop>
+  <tabstop>chkSenha</tabstop>
+  <tabstop>Btn_Atualizar</tabstop>
+  <tabstop>Cbo_Ferramenta_1</tabstop>
+  <tabstop>Cbo_Ferramenta_2</tabstop>
+  <tabstop>Btn_Comparar</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

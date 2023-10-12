@@ -1,0 +1,39 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç A2E0-D1F0
+
+ Pasta de C:\Projetos\CAIXA
+
+27/02/2023  15:54    <DIR>          .
+15/12/2022  12:54    <DIR>          ..
+30/04/2022  11:52                76 .gitignore
+27/02/2023  15:21    <DIR>          .vs
+30/08/2022  15:20            23.151 Analisa_TXT.py
+30/04/2022  11:52             1.603 Areas_Projeto.py
+30/08/2022  15:19    <DIR>          Arquivos TXT
+30/04/2022  11:52             2.276 CAIXA.pyproj
+30/04/2022  11:52               951 CAIXA.sln
+27/02/2023  15:54    <DIR>          Clearcase
+23/02/2023  14:24                 0 Clearcase.db
+02/01/2023  17:33    <DIR>          Compara_Areas
+30/04/2022  11:52               655 comunidades.txt
+02/05/2022  19:07            16.846 Demandas.py
+30/04/2022  11:52         5.222.400 Demandas_SLA.db
+27/02/2023  15:54                 0 dir.txt
+29/12/2022  17:18    <DIR>          env_caixa
+29/12/2022  17:23    <DIR>          Funcoes
+30/04/2022  11:52    <DIR>          RDNG
+02/05/2022  22:02             4.407 RDNG.py
+27/12/2022  12:48    <DIR>          RTC
+06/02/2023  11:17    <DIR>          Scripts
+25/08/2022  14:01    <DIR>          SQL
+30/08/2022  13:31             8.854 TelaPrincipal.py
+01/11/2022  18:35            10.395 TelaPrincipal.ui
+26/02/2023  14:08             4.834 teste.xlsx
+30/04/2022  11:52    <DIR>          Usuarios
+11/05/2022  19:34    <DIR>          web
+11/05/2022  19:34    <DIR>          web2
+30/04/2022  11:52    <DIR>          XML
+30/04/2022  11:52             1.587 XML.py
+30/08/2022  15:20    <DIR>          __pycache__
+              15 arquivo(s)      5.298.035 bytes
+              17 pasta(s)   245.794.684.928 bytes dispon°veis

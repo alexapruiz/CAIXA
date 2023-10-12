@@ -1,0 +1,2046 @@
+ Use(Mb)  %Use  Directory
+ 32931,7    1%   PEDEP\PEDEP.vbs
+--------  ----  ---------------------------------------------------------
+ 32931,7    1%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  8849,2    0%   SIAAD\SIAAD.vbs
+--------  ----  ---------------------------------------------------------
+  8849,2    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4651,3    0%   SIAAF\SIAAF.vbs
+--------  ----  ---------------------------------------------------------
+  4651,3    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3621,2    0%   SIACH\SIACH.vbs
+--------  ----  ---------------------------------------------------------
+  3621,2    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3522,1    0%   SIACT\SIACT.vbs
+--------  ----  ---------------------------------------------------------
+  3522,1    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   120,3    0%   SIAEC\SIAEC.vbs
+--------  ----  ---------------------------------------------------------
+   120,3    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  9351,8    0%   SIAEF\SIAEF.vbs
+--------  ----  ---------------------------------------------------------
+  9351,8    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    45,6    0%   SIAEI\SIAEI.vbs
+--------  ----  ---------------------------------------------------------
+    45,6    0%  Subtotal 
+2750072,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 13745,9    0%   SIAFC\SIAFC.vbs
+--------  ----  ---------------------------------------------------------
+ 13745,9    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1517,5    0%   SIALR\SIALR.vbs
+--------  ----  ---------------------------------------------------------
+  1517,5    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+136648,7    5%   SIAMF\SIAMF.vbs
+--------  ----  ---------------------------------------------------------
+136648,7    5%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 11745,3    0%   SIAPC\SIAPC.vbs
+--------  ----  ---------------------------------------------------------
+ 11745,3    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    34,9    0%   SIAPD\SIAPD.vbs
+--------  ----  ---------------------------------------------------------
+    34,9    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 28452,4    1%   SIAPI\SIAPI.vbs
+--------  ----  ---------------------------------------------------------
+ 28452,4    1%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   323,0    0%   SIAPP\SIAPP.vbs
+--------  ----  ---------------------------------------------------------
+   323,0    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  8551,2    0%   SIAPX\SIAPX.vbs
+--------  ----  ---------------------------------------------------------
+  8551,2    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 17538,8    1%   SIARA\SIARA.vbs
+--------  ----  ---------------------------------------------------------
+ 17538,8    1%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4987,6    0%   SIARC\SIARC.vbs
+--------  ----  ---------------------------------------------------------
+  4987,6    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+170740,5    6%   SIART\SIART.vbs
+--------  ----  ---------------------------------------------------------
+170740,5    6%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  7716,9    0%   SIATD\SIATD.vbs
+--------  ----  ---------------------------------------------------------
+  7716,9    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   263,6    0%   SIATM\SIATM.vbs
+--------  ----  ---------------------------------------------------------
+   263,6    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   247,9    0%   SIATX\SIATX.vbs
+--------  ----  ---------------------------------------------------------
+   247,9    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 29658,5    1%   SIBAN\SIBAN.vbs
+--------  ----  ---------------------------------------------------------
+ 29658,5    1%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1891,8    0%   SIBBR\SIBBR.vbs
+--------  ----  ---------------------------------------------------------
+  1891,8    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   305,4    0%   SIBUC\SIBUC.vbs
+--------  ----  ---------------------------------------------------------
+   305,4    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   128,4    0%   SICAT\SICAT.vbs
+--------  ----  ---------------------------------------------------------
+   128,4    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   160,3    0%   SICBA\SICBA.vbs
+--------  ----  ---------------------------------------------------------
+   160,3    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    50,7    0%   SICCD\SICCD.vbs
+--------  ----  ---------------------------------------------------------
+    50,7    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 16376,3    1%   SICCR\SICCR.vbs
+--------  ----  ---------------------------------------------------------
+ 16376,3    1%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5427,2    0%   SICDT\SICDT.vbs
+--------  ----  ---------------------------------------------------------
+  5427,2    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   426,4    0%   SICEF\SICEF.vbs
+--------  ----  ---------------------------------------------------------
+   426,4    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,4    0%   SICHA\SICHA.vbs
+--------  ----  ---------------------------------------------------------
+     2,4    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,0    0%   SICML\SICML.vbs
+--------  ----  ---------------------------------------------------------
+     1,0    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1661,0    0%   SICOF\SICOF.vbs
+--------  ----  ---------------------------------------------------------
+  1661,0    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4801,5    0%   SICOV\SICOV.vbs
+--------  ----  ---------------------------------------------------------
+  4801,5    0%  Subtotal 
+2750067,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3221,8    0%   SICRE\SICRE.vbs
+--------  ----  ---------------------------------------------------------
+  3221,8    0%  Subtotal 
+2750067,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   473,7    0%   SICRI\SICRI.vbs
+--------  ----  ---------------------------------------------------------
+   473,7    0%  Subtotal 
+2750067,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5118,6    0%   SICRS\SICRS.vbs
+--------  ----  ---------------------------------------------------------
+  5118,6    0%  Subtotal 
+2750067,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   164,3    0%   SICSU\SICSU.vbs
+--------  ----  ---------------------------------------------------------
+   164,3    0%  Subtotal 
+2750067,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5775,3    0%   SICTB\SICTB.vbs
+--------  ----  ---------------------------------------------------------
+  5775,3    0%  Subtotal 
+2750069,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     8,5    0%   SIDBM\SIDBM.vbs
+--------  ----  ---------------------------------------------------------
+     8,5    0%  Subtotal 
+2750069,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+193293,7    7%   SIDEC\SIDEC.vbs
+--------  ----  ---------------------------------------------------------
+193293,7    7%  Subtotal 
+2750068,6   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  8083,2    0%   SIDEO\SIDEO.vbs
+--------  ----  ---------------------------------------------------------
+  8083,2    0%  Subtotal 
+2750068,6   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 22950,0    1%   SIDMF\SIDMF.vbs
+--------  ----  ---------------------------------------------------------
+ 22950,0    1%  Subtotal 
+2750066,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  6409,9    0%   SIDON\SIDON.vbs
+--------  ----  ---------------------------------------------------------
+  6409,9    0%  Subtotal 
+2750066,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   260,3    0%   SIEDE\SIEDE.vbs
+--------  ----  ---------------------------------------------------------
+   260,3    0%  Subtotal 
+2750066,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3967,3    0%   SIEFI\SIEFI.vbs
+--------  ----  ---------------------------------------------------------
+  3967,3    0%  Subtotal 
+2750066,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+126584,5    4%   SIEMP\SIEMP.vbs
+--------  ----  ---------------------------------------------------------
+126584,5    4%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    70,3    0%   SIEMP_ADM\SIEMP_ADM.vbs
+--------  ----  ---------------------------------------------------------
+    70,3    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   241,6    0%   SIEMP_CON\SIEMP_CON.vbs
+--------  ----  ---------------------------------------------------------
+   241,6    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,1    0%   SIEMP_MIG\SIEMP_MIG.vbs
+--------  ----  ---------------------------------------------------------
+     1,1    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    18,7    0%   SIEMP_PRE\SIEMP_PRE.vbs
+--------  ----  ---------------------------------------------------------
+    18,7    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   472,2    0%   SIEMP_PUN\SIEMP_PUN.vbs
+--------  ----  ---------------------------------------------------------
+   472,2    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     9,7    0%   SIEMP_REC\SIEMP_REC.vbs
+--------  ----  ---------------------------------------------------------
+     9,7    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    32,4    0%   SIEMP_REN\SIEMP_REN.vbs
+--------  ----  ---------------------------------------------------------
+    32,4    0%  Subtotal 
+2750066,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  7735,4    0%   SIEPA\SIEPA.vbs
+--------  ----  ---------------------------------------------------------
+  7735,4    0%  Subtotal 
+2750067,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   217,0    0%   SIERE\SIERE.vbs
+--------  ----  ---------------------------------------------------------
+   217,0    0%  Subtotal 
+2750067,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  8589,9    0%   SIFEC\SIFEC.vbs
+--------  ----  ---------------------------------------------------------
+  8589,9    0%  Subtotal 
+2750070,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   111,1    0%   SIFFP\SIFFP.vbs
+--------  ----  ---------------------------------------------------------
+   111,1    0%  Subtotal 
+2750070,8   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 30312,3    1%   SIFGM\SIFGM.vbs
+--------  ----  ---------------------------------------------------------
+ 30312,3    1%  Subtotal 
+2750071,8   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 27934,8    1%   SIFIX\SIFIX.vbs
+--------  ----  ---------------------------------------------------------
+ 27934,8    1%  Subtotal 
+2750082,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   492,0    0%   SIFOB\SIFOB.vbs
+--------  ----  ---------------------------------------------------------
+   492,0    0%  Subtotal 
+2750082,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5766,9    0%   SIFWC\SIFWC.vbs
+--------  ----  ---------------------------------------------------------
+  5766,9    0%  Subtotal 
+2750082,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2206,6    0%   SIGAC\SIGAC.vbs
+--------  ----  ---------------------------------------------------------
+  2206,6    0%  Subtotal 
+2750082,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   272,9    0%   SIGAD\SIGAD.vbs
+--------  ----  ---------------------------------------------------------
+   272,9    0%  Subtotal 
+2750082,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   947,1    0%   SIGBD\SIGBD.vbs
+--------  ----  ---------------------------------------------------------
+   947,1    0%  Subtotal 
+2750082,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 19942,7    1%   SIGCH\SIGCH.vbs
+--------  ----  ---------------------------------------------------------
+ 19942,7    1%  Subtotal 
+2750084,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2493,9    0%   SIGCP\SIGCP.vbs
+--------  ----  ---------------------------------------------------------
+  2493,9    0%  Subtotal 
+2750087,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5743,6    0%   SIGCR\SIGCR.vbs
+--------  ----  ---------------------------------------------------------
+  5743,6    0%  Subtotal 
+2750087,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 21246,3    1%   SIGEC\SIGEC.vbs
+--------  ----  ---------------------------------------------------------
+ 21246,3    1%  Subtotal 
+2750089,0   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1287,0    0%   SIGEC_CSC\SIGEC_CSC.vbs
+--------  ----  ---------------------------------------------------------
+  1287,0    0%  Subtotal 
+2750089,0   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  6760,8    0%   SIGFI\SIGFI.vbs
+--------  ----  ---------------------------------------------------------
+  6760,8    0%  Subtotal 
+2750104,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4250,4    0%   SIGHB\SIGHB.vbs
+--------  ----  ---------------------------------------------------------
+  4250,4    0%  Subtotal 
+2750104,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  7356,4    0%   SIGIP\SIGIP.vbs
+--------  ----  ---------------------------------------------------------
+  7356,4    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   817,1    0%   SIGLO\SIGLO.vbs
+--------  ----  ---------------------------------------------------------
+   817,1    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  6168,4    0%   SIGMC\SIGMC.vbs
+--------  ----  ---------------------------------------------------------
+  6168,4    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2877,6    0%   SIGOT\SIGOT.vbs
+--------  ----  ---------------------------------------------------------
+  2877,6    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4929,7    0%   SIGPB\SIGPB.vbs
+--------  ----  ---------------------------------------------------------
+  4929,7    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   179,8    0%   SIGPD\SIGPD.vbs
+--------  ----  ---------------------------------------------------------
+   179,8    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    12,5    0%   SIGPL\SIGPL.vbs
+--------  ----  ---------------------------------------------------------
+    12,5    0%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 26905,3    1%   SIGRC\SIGRC.vbs
+--------  ----  ---------------------------------------------------------
+ 26905,3    1%  Subtotal 
+2750101,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 33701,5    1%   SIGRR\SIGRR.vbs
+--------  ----  ---------------------------------------------------------
+ 33701,5    1%  Subtotal 
+2750100,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3419,4    0%   SIGTC\SIGTC.vbs
+--------  ----  ---------------------------------------------------------
+  3419,4    0%  Subtotal 
+2750100,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   614,4    0%   SIGTD\SIGTD.vbs
+--------  ----  ---------------------------------------------------------
+   614,4    0%  Subtotal 
+2750100,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1728,4    0%   SIGTI\SIGTI.vbs
+--------  ----  ---------------------------------------------------------
+  1728,4    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   331,8    0%   SIIFX\SIIFX.vbs
+--------  ----  ---------------------------------------------------------
+   331,8    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4117,9    0%   SIINA\SIINA.vbs
+--------  ----  ---------------------------------------------------------
+  4117,9    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   915,3    0%   SIINF\SIINF.vbs
+--------  ----  ---------------------------------------------------------
+   915,3    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    17,5    0%   SIIPO\SIIPO.vbs
+--------  ----  ---------------------------------------------------------
+    17,5    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5311,7    0%   SILCR\SILCR.vbs
+--------  ----  ---------------------------------------------------------
+  5311,7    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   237,8    0%   SILDG\SILDG.vbs
+--------  ----  ---------------------------------------------------------
+   237,8    0%  Subtotal 
+2750099,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  5640,5    0%   SIMCN\SIMCN.vbs
+--------  ----  ---------------------------------------------------------
+  5640,5    0%  Subtotal 
+2750108,6   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   373,2    0%   SIMCR\SIMCR.vbs
+--------  ----  ---------------------------------------------------------
+   373,2    0%  Subtotal 
+2750108,6   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  8974,8    0%   SIMIC\SIMIC.vbs
+--------  ----  ---------------------------------------------------------
+  8974,8    0%  Subtotal 
+2750116,2   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 15883,4    1%   SIMOV\SIMOV.vbs
+--------  ----  ---------------------------------------------------------
+ 15883,4    1%  Subtotal 
+2750105,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   756,8    0%   SIMPH\SIMPH.vbs
+--------  ----  ---------------------------------------------------------
+   756,8    0%  Subtotal 
+2750105,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    91,9    0%   SIMPI\SIMPI.vbs
+--------  ----  ---------------------------------------------------------
+    91,9    0%  Subtotal 
+2750105,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 14572,3    1%   SINAD\SINAD.vbs
+--------  ----  ---------------------------------------------------------
+ 14572,3    1%  Subtotal 
+2750105,8   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  8441,3    0%   SINAT\SINAT.vbs
+--------  ----  ---------------------------------------------------------
+  8441,3    0%  Subtotal 
+2750105,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 40237,3    1%   SINCH\SINCH.vbs
+--------  ----  ---------------------------------------------------------
+ 40237,3    1%  Subtotal 
+2750105,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     8,9    0%   SINCV\SINCV.vbs
+--------  ----  ---------------------------------------------------------
+     8,9    0%  Subtotal 
+2750105,3   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1922,5    0%   SINEB\SINEB.vbs
+--------  ----  ---------------------------------------------------------
+  1922,5    0%  Subtotal 
+2750105,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   535,8    0%   SINEC\SINEC.vbs
+--------  ----  ---------------------------------------------------------
+   535,8    0%  Subtotal 
+2750105,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   228,9    0%   SINOV\SINOV.vbs
+--------  ----  ---------------------------------------------------------
+   228,9    0%  Subtotal 
+2750105,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+250824,1    9%   SIOPI\SIOPI.vbs
+--------  ----  ---------------------------------------------------------
+250824,1    9%  Subtotal 
+2750091,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   721,4    0%   SIOPI_MIG\SIOPI_MIG.vbs
+--------  ----  ---------------------------------------------------------
+   721,4    0%  Subtotal 
+2750091,5   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  6065,5    0%   SIORM\SIORM.vbs
+--------  ----  ---------------------------------------------------------
+  6065,5    0%  Subtotal 
+2750091,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3171,8    0%   SIOSP\SIOSP.vbs
+--------  ----  ---------------------------------------------------------
+  3171,8    0%  Subtotal 
+2750091,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    52,9    0%   SIOTR\SIOTR.vbs
+--------  ----  ---------------------------------------------------------
+    52,9    0%  Subtotal 
+2750091,1   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+133809,1    5%   SIPCS\SIPCS.vbs
+--------  ----  ---------------------------------------------------------
+133809,1    5%  Subtotal 
+2750091,4   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 35810,0    1%   SIPEN\SIPEN.vbs
+--------  ----  ---------------------------------------------------------
+ 35810,0    1%  Subtotal 
+2750090,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1919,3    0%   SIPES\SIPES.vbs
+--------  ----  ---------------------------------------------------------
+  1919,3    0%  Subtotal 
+2750090,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 16180,2    1%   SIPGC\SIPGC.vbs
+--------  ----  ---------------------------------------------------------
+ 16180,2    1%  Subtotal 
+2750090,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2662,4    0%   SIPGT\SIPGT.vbs
+--------  ----  ---------------------------------------------------------
+  2662,4    0%  Subtotal 
+2750090,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   478,5    0%   SIPID\SIPID.vbs
+--------  ----  ---------------------------------------------------------
+   478,5    0%  Subtotal 
+2750090,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4826,8    0%   SIPLA\SIPLA.vbs
+--------  ----  ---------------------------------------------------------
+  4826,8    0%  Subtotal 
+2750090,9   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 58162,2    2%   SIPLD\SIPLD.vbs
+--------  ----  ---------------------------------------------------------
+ 58162,2    2%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3310,6    0%   SIPLO\SIPLO.vbs
+--------  ----  ---------------------------------------------------------
+  3310,6    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   825,0    0%   SIPQV\SIPQV.vbs
+--------  ----  ---------------------------------------------------------
+   825,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 20930,2    1%   SIPRC\SIPRC.vbs
+--------  ----  ---------------------------------------------------------
+ 20930,2    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1814,1    0%   SIPSC\SIPSC.vbs
+--------  ----  ---------------------------------------------------------
+  1814,1    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  3509,3    0%   SIPTI\SIPTI.vbs
+--------  ----  ---------------------------------------------------------
+  3509,3    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    52,1    0%   SIRGC\SIRGC.vbs
+--------  ----  ---------------------------------------------------------
+    52,1    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 66299,2    2%   SIRIC\SIRIC.vbs
+--------  ----  ---------------------------------------------------------
+ 66299,2    2%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 34182,1    1%   SIRIM\SIRIM.vbs
+--------  ----  ---------------------------------------------------------
+ 34182,1    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   242,7    0%   SIRIN\SIRIN.vbs
+--------  ----  ---------------------------------------------------------
+   242,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 30774,3    1%   SIRTA\SIRTA.vbs
+--------  ----  ---------------------------------------------------------
+ 30774,3    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 15378,7    1%   SISAR\SISAR.vbs
+--------  ----  ---------------------------------------------------------
+ 15378,7    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1285,9    0%   SISDU\SISDU.vbs
+--------  ----  ---------------------------------------------------------
+  1285,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,5    0%   SISFD\SISFD.vbs
+--------  ----  ---------------------------------------------------------
+     2,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   416,9    0%   SISGD\SISGD.vbs
+--------  ----  ---------------------------------------------------------
+   416,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    75,7    0%   SISGH\SISGH.vbs
+--------  ----  ---------------------------------------------------------
+    75,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2457,8    0%   SISMN\SISMN.vbs
+--------  ----  ---------------------------------------------------------
+  2457,8    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   313,2    0%   SISOC\SISOC.vbs
+--------  ----  ---------------------------------------------------------
+   313,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   169,0    0%   SISOL\SISOL.vbs
+--------  ----  ---------------------------------------------------------
+   169,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 11699,2    0%   SISOU\SISOU.vbs
+--------  ----  ---------------------------------------------------------
+ 11699,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   347,4    0%   SISPA\SISPA.vbs
+--------  ----  ---------------------------------------------------------
+   347,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 20633,1    1%   SISPB\SISPB.vbs
+--------  ----  ---------------------------------------------------------
+ 20633,1    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2567,4    0%   SISPB_MONTED\SISPB_MONTED.vbs
+--------  ----  ---------------------------------------------------------
+  2567,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   133,5    0%   SISPI\SISPI.vbs
+--------  ----  ---------------------------------------------------------
+   133,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   208,7    0%   SITAH\SITAH.vbs
+--------  ----  ---------------------------------------------------------
+   208,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2184,4    0%   SITAH_CONVENIO\SITAH_CONVENIO.vbs
+--------  ----  ---------------------------------------------------------
+  2184,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  7425,7    0%   SITAH_LEGADO\SITAH_LEGADO.vbs
+--------  ----  ---------------------------------------------------------
+  7425,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2816,0    0%   SITAH_PMCMV\SITAH_PMCMV.vbs
+--------  ----  ---------------------------------------------------------
+  2816,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1005,9    0%   SIVEP\SIVEP.vbs
+--------  ----  ---------------------------------------------------------
+  1005,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    67,9    0%   SIVOC\SIVOC.vbs
+--------  ----  ---------------------------------------------------------
+    67,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    17,2    0%   SIWEB\SIWEB.vbs
+--------  ----  ---------------------------------------------------------
+    17,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    39,9    0%   SIWGE\SIWGE.vbs
+--------  ----  ---------------------------------------------------------
+    39,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 38174,1    1%   SIWIC\SIWIC.vbs
+--------  ----  ---------------------------------------------------------
+ 38174,1    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    10,0    0%   SIWIC_ACAIXA\SIWIC_ACAIXA.vbs
+--------  ----  ---------------------------------------------------------
+    10,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1090,0    0%   SIWLO\SIWLO.vbs
+--------  ----  ---------------------------------------------------------
+  1090,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 20705,1    1%   SIWPC\SIWPC.vbs
+--------  ----  ---------------------------------------------------------
+ 20705,1    1%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    34,4    0%   SIGSR\SIGSR.vbs
+--------  ----  ---------------------------------------------------------
+    34,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,3    0%   SIRIE\SIRIE.vbs
+--------  ----  ---------------------------------------------------------
+     1,3    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    54,2    0%   SID55_ANTIGA\SID55_ANTIGA.vbs
+--------  ----  ---------------------------------------------------------
+    54,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2881,7    0%   SIFRS\SIFRS.vbs
+--------  ----  ---------------------------------------------------------
+  2881,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   450,8    0%   SIERC\SIERC.vbs
+--------  ----  ---------------------------------------------------------
+   450,8    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,1    0%   SICDI\SICDI.vbs
+--------  ----  ---------------------------------------------------------
+     1,1    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   658,4    0%   SIGDC\SIGDC.vbs
+--------  ----  ---------------------------------------------------------
+   658,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   728,2    0%   SIGES\SIGES.vbs
+--------  ----  ---------------------------------------------------------
+   728,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  4235,5    0%   SIPAT\SIPAT.vbs
+--------  ----  ---------------------------------------------------------
+  4235,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  9240,8    0%   SIORC\SIORC.vbs
+--------  ----  ---------------------------------------------------------
+  9240,8    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   233,7    0%   SIWFM_MOCTX\SIWFM_MOCTX.vbs
+--------  ----  ---------------------------------------------------------
+   233,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  2389,4    0%   SIWOC\SIWOC.vbs
+--------  ----  ---------------------------------------------------------
+  2389,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   349,8    0%   SIWFM_REQDOC\SIWFM_REQDOC.vbs
+--------  ----  ---------------------------------------------------------
+   349,8    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    46,5    0%   SIWFM_REMARQ\SIWFM_REMARQ.vbs
+--------  ----  ---------------------------------------------------------
+    46,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+175033,3    6%   SIAOI\SIAOI.vbs
+--------  ----  ---------------------------------------------------------
+175033,3    6%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   719,6    0%   SIACI_CGE\SIACI_CGE.vbs
+--------  ----  ---------------------------------------------------------
+   719,6    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    28,2    0%   SIFOU\SIFOU.vbs
+--------  ----  ---------------------------------------------------------
+    28,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+144297,6    5%   SIOPI3\SIOPI3.vbs
+--------  ----  ---------------------------------------------------------
+144297,6    5%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  1929,8    0%   SIWFS\SIWFS.vbs
+--------  ----  ---------------------------------------------------------
+  1929,8    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,0    0%   SISPE\SISPE.vbs
+--------  ----  ---------------------------------------------------------
+     2,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   995,6    0%   SIASE\SIASE.vbs
+--------  ----  ---------------------------------------------------------
+   995,6    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  9579,2    0%   SICDU\SICDU.vbs
+--------  ----  ---------------------------------------------------------
+  9579,2    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  7360,5    0%   SIJUR_TESTE\SIJUR_TESTE.vbs
+--------  ----  ---------------------------------------------------------
+  7360,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SICAJ\SICAJ.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    84,8    0%   SIAPA\SIAPA.vbs
+--------  ----  ---------------------------------------------------------
+    84,8    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,5    0%   SIMKT\SIMKT.vbs
+--------  ----  ---------------------------------------------------------
+     0,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+    22,5    0%   SIREX\SIREX.vbs
+--------  ----  ---------------------------------------------------------
+    22,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIPLE\SIPLE.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIING\SIING.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SINEW\SINEW.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIEPR\SIEPR.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIATN\SIATN.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SISPF\SISPF.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIADI\SIADI.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIAGD\SIAGD.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIFCP\SIFCP.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SINEP\SINEP.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIALI\SIALI.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,5    0%   SIDIP\SIDIP.vbs
+--------  ----  ---------------------------------------------------------
+     0,5    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,9    0%   SIRFO\SIRFO.vbs
+--------  ----  ---------------------------------------------------------
+     0,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,3    0%   SILOG\SILOG.vbs
+--------  ----  ---------------------------------------------------------
+     0,3    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,7    0%   SIDCE\SIDCE.vbs
+--------  ----  ---------------------------------------------------------
+     0,7    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   264,0    0%   SICOW\SICOW.vbs
+--------  ----  ---------------------------------------------------------
+   264,0    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  9288,1    0%   SIJUR_WEB\SIJUR_WEB.vbs
+--------  ----  ---------------------------------------------------------
+  9288,1    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,9    0%   SIJUR\SIJUR.vbs
+--------  ----  ---------------------------------------------------------
+     2,9    0%  Subtotal 
+2750090,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+  9576,6    0%   SIAOI_CANAISDIGITAIS\SIAOI_CANAISDIGITAIS.vbs
+--------  ----  ---------------------------------------------------------
+  9576,6    0%  Subtotal 
+1812049,6   62%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+     9,8    0%   SIOPI_ATENDER\SIOPI_ATENDER.vbs
+--------  ----  ---------------------------------------------------------
+     9,8    0%  Subtotal 
+1550826,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1505,5    0%   SIRUR\SIRUR.vbs
+--------  ----  ---------------------------------------------------------
+  1505,5    0%  Subtotal 
+1812057,2   62%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+ 13043,8    1%   ADB\ADB.vbs
+--------  ----  ---------------------------------------------------------
+ 13043,8    1%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+102350,9    5%   ADI\ADI.vbs
+--------  ----  ---------------------------------------------------------
+102350,9    5%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 44795,8    2%   SIACC\SIACC.vbs
+--------  ----  ---------------------------------------------------------
+ 44795,8    2%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+101658,7    5%   SIACM\SIACM.vbs
+--------  ----  ---------------------------------------------------------
+101658,7    5%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  5920,0    0%   SIALM\SIALM.vbs
+--------  ----  ---------------------------------------------------------
+  5920,0    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 55240,7    3%   SIAME_APHAB\SIAME_APHAB.vbs
+--------  ----  ---------------------------------------------------------
+ 55240,7    3%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1151,9    0%   SIAMF_APAGV\SIAMF_APAGV.vbs
+--------  ----  ---------------------------------------------------------
+  1151,9    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,3    0%   SIARH\SIARH.vbs
+--------  ----  ---------------------------------------------------------
+     1,3    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  3329,1    0%   SIATC\SIATC.vbs
+--------  ----  ---------------------------------------------------------
+  3329,1    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 22724,2    1%   SIAUD\SIAUD.vbs
+--------  ----  ---------------------------------------------------------
+ 22724,2    1%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  6203,6    0%   SIAVL\SIAVL.vbs
+--------  ----  ---------------------------------------------------------
+  6203,6    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,9    0%   SIBLO\SIBLO.vbs
+--------  ----  ---------------------------------------------------------
+     0,9    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   326,3    0%   SIBOT\SIBOT.vbs
+--------  ----  ---------------------------------------------------------
+   326,3    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   673,7    0%   SIBSA\SIBSA.vbs
+--------  ----  ---------------------------------------------------------
+   673,7    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,9    0%   SICAD\SICAD.vbs
+--------  ----  ---------------------------------------------------------
+     0,9    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 18397,9    1%   SICDC\SICDC.vbs
+--------  ----  ---------------------------------------------------------
+ 18397,9    1%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     3,0    0%   SICER\SICER.vbs
+--------  ----  ---------------------------------------------------------
+     3,0    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1078,3    0%   SICPT\SICPT.vbs
+--------  ----  ---------------------------------------------------------
+  1078,3    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  2153,9    0%   SIDIS\SIDIS.vbs
+--------  ----  ---------------------------------------------------------
+  2153,9    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     4,7    0%   SIDOU\SIDOU.vbs
+--------  ----  ---------------------------------------------------------
+     4,7    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  6595,3    0%   SIECM\SIECM.vbs
+--------  ----  ---------------------------------------------------------
+  6595,3    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   885,2    0%   SIEDD\SIEDD.vbs
+--------  ----  ---------------------------------------------------------
+   885,2    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 11626,9    1%   SIFBN\SIFBN.vbs
+--------  ----  ---------------------------------------------------------
+ 11626,9    1%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 18172,9    1%   SIFDL\SIFDL.vbs
+--------  ----  ---------------------------------------------------------
+ 18172,9    1%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 61069,7    3%   SIFES\SIFES.vbs
+--------  ----  ---------------------------------------------------------
+ 61069,7    3%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 18545,1    1%   SIFES_REL\SIFES_REL.vbs
+--------  ----  ---------------------------------------------------------
+ 18545,1    1%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    80,5    0%   SIGAD_WEB\SIGAD_WEB.vbs
+--------  ----  ---------------------------------------------------------
+    80,5    0%  Subtotal 
+1550803,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  6694,9    0%   SIGCS\SIGCS.vbs
+--------  ----  ---------------------------------------------------------
+  6694,9    0%  Subtotal 
+1550804,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  3259,9    0%   SIGDR\SIGDR.vbs
+--------  ----  ---------------------------------------------------------
+  3259,9    0%  Subtotal 
+1550804,1   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  6220,7    0%   SIGEC_COM\SIGEC_COM.vbs
+--------  ----  ---------------------------------------------------------
+  6220,7    0%  Subtotal 
+1550804,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  7761,2    0%   SIGEC_POR\SIGEC_POR.vbs
+--------  ----  ---------------------------------------------------------
+  7761,2    0%  Subtotal 
+1550804,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   319,8    0%   SIGER\SIGER.vbs
+--------  ----  ---------------------------------------------------------
+   319,8    0%  Subtotal 
+1550804,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  5683,4    0%   SIGID\SIGID.vbs
+--------  ----  ---------------------------------------------------------
+  5683,4    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1912,8    0%   SIGIN\SIGIN.vbs
+--------  ----  ---------------------------------------------------------
+  1912,8    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   307,6    0%   SIGPN\SIGPN.vbs
+--------  ----  ---------------------------------------------------------
+   307,6    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   932,0    0%   SIICX\SIICX.vbs
+--------  ----  ---------------------------------------------------------
+   932,0    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   135,1    0%   SIIGA\SIIGA.vbs
+--------  ----  ---------------------------------------------------------
+   135,1    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   510,7    0%   SIJUR_LEG\SIJUR_LEG.vbs
+--------  ----  ---------------------------------------------------------
+   510,7    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 17338,8    1%   SILDC\SILDC.vbs
+--------  ----  ---------------------------------------------------------
+ 17338,8    1%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   231,7    0%   SIMCD\SIMCD.vbs
+--------  ----  ---------------------------------------------------------
+   231,7    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 13456,0    1%   SINAF_PCU\SINAF_PCU.vbs
+--------  ----  ---------------------------------------------------------
+ 13456,0    1%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  5746,4    0%   SINAF_WEB\SINAF_WEB.vbs
+--------  ----  ---------------------------------------------------------
+  5746,4    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 25603,4    1%   SINBM\SINBM.vbs
+--------  ----  ---------------------------------------------------------
+ 25603,4    1%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   684,8    0%   SINDA\SINDA.vbs
+--------  ----  ---------------------------------------------------------
+   684,8    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 30953,2    1%   SIOUV\SIOUV.vbs
+--------  ----  ---------------------------------------------------------
+ 30953,2    1%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 70066,5    3%   SIPDC\SIPDC.vbs
+--------  ----  ---------------------------------------------------------
+ 70066,5    3%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  7268,2    0%   SIPDH\SIPDH.vbs
+--------  ----  ---------------------------------------------------------
+  7268,2    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   569,5    0%   SIPIC\SIPIC.vbs
+--------  ----  ---------------------------------------------------------
+   569,5    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  9498,7    0%   SIPOP\SIPOP.vbs
+--------  ----  ---------------------------------------------------------
+  9498,7    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    10,7    0%   SIPPS\SIPPS.vbs
+--------  ----  ---------------------------------------------------------
+    10,7    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   143,9    0%   SIPRG\SIPRG.vbs
+--------  ----  ---------------------------------------------------------
+   143,9    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    15,1    0%   SIPTO\SIPTO.vbs
+--------  ----  ---------------------------------------------------------
+    15,1    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    98,0    0%   SIPXS\SIPXS.vbs
+--------  ----  ---------------------------------------------------------
+    98,0    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,4    0%   SIRTE\SIRTE.vbs
+--------  ----  ---------------------------------------------------------
+     2,4    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,1    0%   SISAN\SISAN.vbs
+--------  ----  ---------------------------------------------------------
+     1,1    0%  Subtotal 
+1550803,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 10364,5    0%   SISFIN\SISFIN.vbs
+--------  ----  ---------------------------------------------------------
+ 10364,5    0%  Subtotal 
+1550804,2   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   872,2    0%   SISFIN_AS\SISFIN_AS.vbs
+--------  ----  ---------------------------------------------------------
+   872,2    0%  Subtotal 
+1550804,2   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   243,0    0%   SISFIN_BV\SISFIN_BV.vbs
+--------  ----  ---------------------------------------------------------
+   243,0    0%  Subtotal 
+1550804,2   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   432,6    0%   SISFIN_CB\SISFIN_CB.vbs
+--------  ----  ---------------------------------------------------------
+   432,6    0%  Subtotal 
+1550804,3   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   598,4    0%   SISFIN_CE\SISFIN_CE.vbs
+--------  ----  ---------------------------------------------------------
+   598,4    0%  Subtotal 
+1550804,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  3559,9    0%   SISFIN_CO\SISFIN_CO.vbs
+--------  ----  ---------------------------------------------------------
+  3559,9    0%  Subtotal 
+1550804,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   670,9    0%   SISFIN_DB\SISFIN_DB.vbs
+--------  ----  ---------------------------------------------------------
+   670,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  2802,4    0%   SISFIN_EB\SISFIN_EB.vbs
+--------  ----  ---------------------------------------------------------
+  2802,4    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   410,7    0%   SISFIN_EM\SISFIN_EM.vbs
+--------  ----  ---------------------------------------------------------
+   410,7    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  2418,1    0%   SISFIN_FC\SISFIN_FC.vbs
+--------  ----  ---------------------------------------------------------
+  2418,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     3,6    0%   SISFIN_FIES\SISFIN_FIES.vbs
+--------  ----  ---------------------------------------------------------
+     3,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  4048,5    0%   SISFIN_FP\SISFIN_FP.vbs
+--------  ----  ---------------------------------------------------------
+  4048,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    14,2    0%   SISFIN_GA\SISFIN_GA.vbs
+--------  ----  ---------------------------------------------------------
+    14,2    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   123,9    0%   SISFIN_GC\SISFIN_GC.vbs
+--------  ----  ---------------------------------------------------------
+   123,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   501,5    0%   SISFIN_GF\SISFIN_GF.vbs
+--------  ----  ---------------------------------------------------------
+   501,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    62,8    0%   SISFIN_IE\SISFIN_IE.vbs
+--------  ----  ---------------------------------------------------------
+    62,8    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    20,8    0%   SISFIN_LO\SISFIN_LO.vbs
+--------  ----  ---------------------------------------------------------
+    20,8    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   128,9    0%   SISFIN_PF\SISFIN_PF.vbs
+--------  ----  ---------------------------------------------------------
+   128,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  2788,9    0%   SISFIN_PG\SISFIN_PG.vbs
+--------  ----  ---------------------------------------------------------
+  2788,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1328,5    0%   SISFIN_PR\SISFIN_PR.vbs
+--------  ----  ---------------------------------------------------------
+  1328,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    20,2    0%   SISFIN_PS\SISFIN_PS.vbs
+--------  ----  ---------------------------------------------------------
+    20,2    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    67,6    0%   SISFIN_RB\SISFIN_RB.vbs
+--------  ----  ---------------------------------------------------------
+    67,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1247,7    0%   SISFIN_RT\SISFIN_RT.vbs
+--------  ----  ---------------------------------------------------------
+  1247,7    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1930,2    0%   SISFIN_TD\SISFIN_TD.vbs
+--------  ----  ---------------------------------------------------------
+  1930,2    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  8100,5    0%   SISFIN_VL\SISFIN_VL.vbs
+--------  ----  ---------------------------------------------------------
+  8100,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    10,6    0%   SISFW\SISFW.vbs
+--------  ----  ---------------------------------------------------------
+    10,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   159,7    0%   SISGC\SISGC.vbs
+--------  ----  ---------------------------------------------------------
+   159,7    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   209,3    0%   SISIG\SISIG.vbs
+--------  ----  ---------------------------------------------------------
+   209,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     3,9    0%   SISMN_NORMAS\SISMN_NORMAS.vbs
+--------  ----  ---------------------------------------------------------
+     3,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,7    0%   SISTA\SISTA.vbs
+--------  ----  ---------------------------------------------------------
+     1,7    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 12511,9    1%   SITEM\SITEM.vbs
+--------  ----  ---------------------------------------------------------
+ 12511,9    1%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   787,5    0%   SIVCC\SIVCC.vbs
+--------  ----  ---------------------------------------------------------
+   787,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    18,9    0%   SIGFA_ANTIGA\SIGFA_ANTIGA.vbs
+--------  ----  ---------------------------------------------------------
+    18,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,5    0%   SICIN\SICIN.vbs
+--------  ----  ---------------------------------------------------------
+     0,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    84,1    0%   SICVR\SICVR.vbs
+--------  ----  ---------------------------------------------------------
+    84,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     3,0    0%   SIGTS\SIGTS.vbs
+--------  ----  ---------------------------------------------------------
+     3,0    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+ 14968,7    1%   SIFES_REST\SIFES_REST.vbs
+--------  ----  ---------------------------------------------------------
+ 14968,7    1%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    18,1    0%   SIRCL\SIRCL.vbs
+--------  ----  ---------------------------------------------------------
+    18,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   507,2    0%   SICTM\SICTM.vbs
+--------  ----  ---------------------------------------------------------
+   507,2    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  2114,8    0%   SIICO_BR_I\SIICO_BR_I.vbs
+--------  ----  ---------------------------------------------------------
+  2114,8    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   131,9    0%   SIICO_BR_G\SIICO_BR_G.vbs
+--------  ----  ---------------------------------------------------------
+   131,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,6    0%   SIICO_BR_F\SIICO_BR_F.vbs
+--------  ----  ---------------------------------------------------------
+     2,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   216,2    0%   SIICO_BR_T\SIICO_BR_T.vbs
+--------  ----  ---------------------------------------------------------
+   216,2    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   319,4    0%   SIICO_BR_U\SIICO_BR_U.vbs
+--------  ----  ---------------------------------------------------------
+   319,4    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   197,7    0%   SIICO_PR_N\SIICO_PR_N.vbs
+--------  ----  ---------------------------------------------------------
+   197,7    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    59,4    0%   SIICO_BR_R\SIICO_BR_R.vbs
+--------  ----  ---------------------------------------------------------
+    59,4    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,1    0%   SIICO_DW\SIICO_DW.vbs
+--------  ----  ---------------------------------------------------------
+     1,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   228,1    0%   SIICO_BR_P\SIICO_BR_P.vbs
+--------  ----  ---------------------------------------------------------
+   228,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   234,5    0%   SIHDG\SIHDG.vbs
+--------  ----  ---------------------------------------------------------
+   234,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,9    0%   SIGCN\SIGCN.vbs
+--------  ----  ---------------------------------------------------------
+     0,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    58,6    0%   SIBIN\SIBIN.vbs
+--------  ----  ---------------------------------------------------------
+    58,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1003,5    0%   SIDSC\SIDSC.vbs
+--------  ----  ---------------------------------------------------------
+  1003,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    49,3    0%   SIGCD\SIGCD.vbs
+--------  ----  ---------------------------------------------------------
+    49,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    11,8    0%   SIPPM\SIPPM.vbs
+--------  ----  ---------------------------------------------------------
+    11,8    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     6,5    0%   SIABF\SIABF.vbs
+--------  ----  ---------------------------------------------------------
+     6,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,9    0%   SIB2C\SIB2C.vbs
+--------  ----  ---------------------------------------------------------
+     0,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    99,0    0%   SICPR\SICPR.vbs
+--------  ----  ---------------------------------------------------------
+    99,0    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+   347,9    0%   SINIC\SINIC.vbs
+--------  ----  ---------------------------------------------------------
+   347,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    16,1    0%   SIBTI\SIBTI.vbs
+--------  ----  ---------------------------------------------------------
+    16,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SINPJ\SINPJ.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,6    0%   SIGLM\SIGLM.vbs
+--------  ----  ---------------------------------------------------------
+     0,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    69,9    0%   SICOD\SICOD.vbs
+--------  ----  ---------------------------------------------------------
+    69,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    43,0    0%   SIPPG\SIPPG.vbs
+--------  ----  ---------------------------------------------------------
+    43,0    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+228566,0   11%   SECAC_ADM\SECAC_ADM.vbs
+--------  ----  ---------------------------------------------------------
+228566,0   11%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    23,6    0%   SIAFF\SIAFF.vbs
+--------  ----  ---------------------------------------------------------
+    23,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     6,0    0%   SIAUR\SIAUR.vbs
+--------  ----  ---------------------------------------------------------
+     6,0    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    21,9    0%   SICGB\SICGB.vbs
+--------  ----  ---------------------------------------------------------
+    21,9    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     4,4    0%   SIPFB\SIPFB.vbs
+--------  ----  ---------------------------------------------------------
+     4,4    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     4,1    0%   GECEQ\GECEQ.vbs
+--------  ----  ---------------------------------------------------------
+     4,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    10,3    0%   SIRMC\SIRMC.vbs
+--------  ----  ---------------------------------------------------------
+    10,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,2    0%   CAPITULO_PESSOAS\CAPITULO_PESSOAS.vbs
+--------  ----  ---------------------------------------------------------
+     0,2    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    22,3    0%   SIINP\SIINP.vbs
+--------  ----  ---------------------------------------------------------
+    22,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,3    0%   SISNG\SISNG.vbs
+--------  ----  ---------------------------------------------------------
+     0,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,5    0%   SIMPR\SIMPR.vbs
+--------  ----  ---------------------------------------------------------
+     0,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     6,1    0%   SITMA\SITMA.vbs
+--------  ----  ---------------------------------------------------------
+     6,1    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIFGP\SIFGP.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,3    0%   SIACI_INTERNALIZACAO\SIACI_INTERNALIZACAO.vbs
+--------  ----  ---------------------------------------------------------
+     0,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     6,8    0%   SICLG\SICLG.vbs
+--------  ----  ---------------------------------------------------------
+     6,8    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     1,5    0%   SIMPF\SIMPF.vbs
+--------  ----  ---------------------------------------------------------
+     1,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,6    0%   SILIC\SILIC.vbs
+--------  ----  ---------------------------------------------------------
+     0,6    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+    34,5    0%   SIMTR\SIMTR.vbs
+--------  ----  ---------------------------------------------------------
+    34,5    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     2,0    0%   SINET\SINET.vbs
+--------  ----  ---------------------------------------------------------
+     2,0    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,3    0%   SIPNL\SIPNL.vbs
+--------  ----  ---------------------------------------------------------
+     0,3    0%  Subtotal 
+1550803,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+  1221,9    0%   SIRCA\SIRCA.vbs
+--------  ----  ---------------------------------------------------------
+  1221,9    0%  Subtotal 
+2750210,7   94%  Filesystem CBRSVAPRNT005:f:\ (capacity 2914292,6 Mb)
+
+ Use(Mb)  %Use  Directory
+   614,2    0%   SIICO_BR\SIICO_BR.vbs
+--------  ----  ---------------------------------------------------------
+   614,2    0%  Subtotal 
+1550803,0   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+
+ Use(Mb)  %Use  Directory
+     0,4    0%   SIWCT\SIWCT.vbs
+--------  ----  ---------------------------------------------------------
+     0,4    0%  Subtotal 
+1550826,4   74%  Filesystem CBRSVAPRNT005:i:\ (capacity 2097150,0 Mb)
+

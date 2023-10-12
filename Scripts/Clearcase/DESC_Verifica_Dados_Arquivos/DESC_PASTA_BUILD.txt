@@ -1,0 +1,4136 @@
+directory version "GRFC\05-Implantacao\Build@@\main\1"
+  created 2011-12-15T14:10:49-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "GRF_WEB\05-Implantacao\Build@@\main\5"
+  created 2018-05-28T19:19:31-03:00 by f625556.G RJ7265 FAB BRQ_FSW@cxextrnt287
+  " 
+   Added file element "sisfg.jar"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+directory version "GRRF\05-Implantacao\Build@@\main\8"
+  created 2016-09-15T17:59:21-03:00 by f653011.G CR7265 FAB STEFANINI@cxextrnt287
+  "filipe souza: nova versão grfc com log em tela
+    
+   Added file element "build_grfc_v2.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+directory version "PNAFM\05-Implantacao\Build@@\main\3"
+  created 2012-05-18T17:57:32-03:00 by Fatima Barbosa Fernandes (F514455.Domain Users@CXEXTRNT174)
+  "postado na pasta errada
+    "
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+  Labels:
+    P1961_RJ201202035_OS001_S002_DETALHADA_INSUMOS
+    P1961_RJ201201538_OS005_S001_DETALHADA
+    P1961_RJ201101646_REQUISITOS_REVISADOS_R001
+directory version "REFIP\05-Implantacao\Build@@\main\1"
+  created 2011-12-16T13:19:34-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "REMAG\05-Implantacao\Build@@\main\1"
+  created 2011-12-16T13:53:07-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SECAC_ADM\05-Implantacao\Build@@\main\1"
+  created 2012-06-13T10:29:30-03:00 by Fabio Callai Paiva de Melo (c108813.G CD7390 SECAC_CC_PRIMARY@DF7390ET924)
+  "Diretorios conforme especificado no modelo de uso"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SEFIP\05-Implantacao\Build@@\main\7"
+  created 2012-05-30T14:54:30-03:00 by Marcos Bacellar Ferreira (F612346.Domain Users@CXEXTRNT174)
+  "entrega
+    
+   Added file element "SEFIP.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SIAAD\05-Implantacao\Build@@\main\20"
+  created 2016-09-02T10:23:19-03:00 by f702715.G CD7390 MSA@CXEXTRNT259
+  " 
+   Added file element "SIAAD_Build.ear".
+   Uncataloged file element "siaad.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\19
+directory version "SIAAF\05-Implantacao\Build@@\main\6"
+  created 2021-03-11T15:37:30-03:00 by Kassia Luana Pereira (F564496.Domain Users@DF7390ET275)
+  "Inclusão documento
+   Added file element "SIAAF_MAPPING_CODIGO_SERVICO_SINBC.xlsx"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\5
+directory version "SIACC\05-Implantacao\Build@@\main\1"
+  created 2020-01-29T16:53:12-03:00 by Rafael Campelo Macedo (c142923.Domain Users@DF7390ET537)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIACI_INTERNALIZACAO\05-Implantacao\Build@@\main\1"
+  created 2022-08-03T11:58:42-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c072688 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIADI\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:28:41-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAEC\05-Implantacao\Build@@\main\1"
+  created 2011-06-08T17:16:50-03:00 by Antonio Marcos Araujo Borges (c036215.G CD7390 SEEMP_CC_PRIMARY@DF7390ET724)
+  "INCLUSÃO DE SUBPASTAS CONFORME PADRÃO"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAFF\05-Implantacao\Build@@\main\1"
+  created 2021-12-23T17:05:59-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c051318 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAFH\05-Implantacao\Build@@\main\1"
+  created 2013-07-16T11:36:01-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P4270_RJ201402146_OS001_ENT16
+directory version "SIAGD\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:42:51-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAGS\05-Implantacao\Build@@\main\1"
+  created 2015-08-05T09:57:06-03:00 by Antonio Lins de Albuquerque Junior (f692548.Domain Users@DF7390ET290)
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIALI\05-Implantacao\Build@@\main\1"
+  created 2022-01-11T16:36:03-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIALR\05-Implantacao\Build@@\main\3"
+  created 2020-10-16T10:53:11-03:00 by Luiz Cesar de Almeida (f627203.Domain Users@DF7390ET681)
+  "Uncataloged file element "SIALR_Roteiro_Aplicação_Hotfix_SASIRM.doc"."
+  Element Protection:
+    User : CORPCAIXA\c098443 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIAME_APHAB\05-Implantacao\Build@@\main\1"
+  created 2019-02-18T16:07:55-03:00 by f548176.Domain Users@CXEXTRNT270
+  "Importando Estrutura de pastas para a VOB SIAME_APHAB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c113253 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAMF_APAGV\05-Implantacao\Build@@\main\1"
+  created 2019-10-15T14:43:29-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIAMF_APAGV"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAMT\05-Implantacao\Build@@\main\4"
+  created 2014-08-13T18:00:13-03:00 by c079684.Domain Users@cxextrnt287
+  "atualizacao de versao"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+  Labels:
+    P2415_RJ201500230_OS0001_S0001_ESTIMADA_E001
+    P2415_RJ201500230_OS0001_S0001_ESTIMADA_E1
+directory version "SIAOI_CANAISDIGITAIS\05-Implantacao\Build@@\main\1"
+  created 2019-04-12T10:24:35-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIAOI_CANAISDIGITAIS"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c113253 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAPA\05-Implantacao\Build@@\main\13"
+  created 2022-08-29T15:24:49-03:00 by Marcio Augusto Soeiro (c129776.Domain Users@DF7390ET042)
+  "29ago1519
+   Added file element "(RollBack)QueryUpdateRetornaAudiencia603_2021.sql".
+   Added file element "(RollBack)QueryUpdateRetornaAudiencia66_2022.sql".
+   Added file element "QueryUpdateRetornaAudiencia603_2021.sql".
+   Added file element "QueryUpdateRetornaAudiencia66_2022.sql"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\12
+directory version "SIAPD\05-Implantacao\Build@@\main\1"
+  created 2020-07-22T14:39:01-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIAPD"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAPF\05-Implantacao\Build@@\main\5"
+  created 2018-04-05T10:54:32-03:00 by c068627.G CR7265 FINANCIAMENTO_SOCIAL@cxextrnt287
+  "formulário SIGDB
+    
+   Added directory element "RJ201800014"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+  Labels:
+    P2753_RJ201801786_OS001_ELABORACAO_E0001_R0003
+    P2753_RJ201800014_OS001_IMPLANTACAO
+directory version "SIAPG\05-Implantacao\Build@@\main\1"
+  created 2012-01-02T18:24:48-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAPG_OFF\05-Implantacao\Build@@\main\1"
+  created 2012-01-02T18:47:19-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAPL\05-Implantacao\Build@@\main\1"
+  created 2018-09-26T15:41:17-03:00 by f548176.Domain Users@cbrdeaprnt002
+  "Importando Estrutura de pastas para a VOB SIAPL"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAPM\05-Implantacao\Build@@\main\2"
+  created 2012-05-18T18:00:29-03:00 by Fatima Barbosa Fernandes (F514455.Domain Users@CXEXTRNT174)
+  "inclusão
+    
+   Added file element "SIAPM_Java.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIAPS\05-Implantacao\Build@@\main\4"
+  created 2012-05-30T13:18:59-03:00 by C051318.Domain Users@CXEXTRNT174
+  "Os sistemas SIMDP, SIAPS, SIFPS e SIFSW, quando estavam no auge de funcionamento, compartilhavam a mesma instalação e a mesma base de dados em SQL-Server. Logo, são sistemas que sempre andaram em conjunto.
+   Por isso estamos armazenando os fontes do SIFSW para acervo.
+    
+   Added file element "SIFSW_ASP.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SIARF\05-Implantacao\Build@@\main\5"
+  created 2012-05-29T16:41:45-03:00 by Marcos Bacellar Ferreira (F612346.Domain Users@CXEXTRNT174)
+  "erro no nome do arquivo
+    
+   Uncataloged file element "Build_Siarf.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+directory version "SIARQ\05-Implantacao\Build@@\main\4"
+  created 2012-05-14T15:38:32-03:00 by Paulo Ricardo Soares Pereira (F590407.Domain Users@CXEXTRNT174)
+  " 
+   Uncataloged file element "build_caixa.properties".
+   Uncataloged file element "build_caixa.xml".
+   Uncataloged file element "build.properties".
+   Uncataloged file element "build.xml"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SIASA\05-Implantacao\Build@@\main\2"
+  created 2012-05-17T17:23:24-03:00 by Murilo Bravim (F988027.Domain Users@CXEXTRNT174)
+  "Incluir primeiro BUILD
+    
+   Added file element "siasa_legado.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIASC\05-Implantacao\Build@@\main\19"
+  created 2022-02-21T13:39:55-03:00 by Milena Rocha de Souza Milani (c060542.Domain Users@df5088nb001)
+  "Added file element "SIASC_1.2.5.1.ear".
+   Uncataloged file element "SIASC_1.2.5.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\18
+directory version "SIATC\05-Implantacao\Build@@\main\6"
+  created 2018-10-26T13:00:15-03:00 by Marcus Vinicius Martins Oliveira Souza (c127240.Domain Users@DF7390ET193)
+  "Uncataloged file element "siatc.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\5
+directory version "SIATD\05-Implantacao\Build@@\main\1"
+  created 2013-12-10T15:31:48-03:00 by Arthur Goncalves Amaral (c111785.Domain Users@DF7390ET495)
+  "Criação"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIATN\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:47:54-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAUD\05-Implantacao\Build@@\main\11"
+  created 2019-07-25T17:23:54-03:00 by Henrique Cesar dos Reis Nascimento (c110509.Domain Users@DF7390NB293)
+  "Added file element "siaud_batch_rest_client.jar"."
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\10
+directory version "SIAUF\05-Implantacao\Build@@\main\1"
+  created 2011-11-22T15:32:54-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAUR\05-Implantacao\Build@@\main\1"
+  created 2021-12-27T11:02:42-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c067223 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIAVL\05-Implantacao\Build@@\main\1"
+  created 2016-08-18T17:34:16-03:00 by f627203.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIAVL"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIB2C\05-Implantacao\Build@@\main\1"
+  created 2020-09-03T10:24:25-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIB2C"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBAN\05-Implantacao\Build@@\main\1"
+  created 2018-12-10T14:29:45-03:00 by Haroldo Luiz Dias da Silva (c024894.Domain Users@DF7390ET038)
+  "padronizacao da vob"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBBR\05-Implantacao\Build@@\main\3"
+  created 2020-07-10T22:49:11-03:00 by Nemezio da Silva Rocha Neto (f569306.Domain Users@DF7390ET775)
+  " 
+   Uncataloged file element "BAR_PCS_INFORMACAO_CLIENTE_CARTAO_API_PROD.bar"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIBEC_BATCH\05-Implantacao\Build@@\main\1"
+  created 2012-07-09T12:04:31-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBIS\05-Implantacao\Build@@\main\1"
+  created 2016-02-03T09:00:54-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBLO\05-Implantacao\Build@@\main\1"
+  created 2021-03-12T10:32:07-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIBLO"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBNS\05-Implantacao\Build@@\main\15"
+  created 2013-10-11T17:10:32-03:00 by c126910.Domain Users@cxextrnt287
+  " 
+   Uncataloged file element "SIBNS.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\14
+directory version "SIBOT\05-Implantacao\Build@@\main\1"
+  created 2018-08-02T11:40:26-03:00 by f548176.Domain Users@cbrdeaprnt002
+  "Importando Estrutura de pastas para a VOB SIBOT"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBPF\05-Implantacao\Build@@\main\3"
+  created 2020-02-07T17:02:52-03:00 by Calebe Goncalves da Silva (c116833.Domain Users@DF7390ET458)
+  "A pedido da equipe
+   Added directory element "Versao_bCPF_0.3.0"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIBSA\05-Implantacao\Build@@\main\1"
+  created 2020-05-19T14:18:56-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIBSA"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIBTI\05-Implantacao\Build@@\main\1"
+  created 2021-09-21T18:21:55-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIBTI"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c066331 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICAD\05-Implantacao\Build@@\main\1"
+  created 2021-03-12T11:02:05-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICAD"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICAJ\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:47:54-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICAT\05-Implantacao\Build@@\main\1"
+  created 2009-12-14T10:30:56-03:00 by Iara Afonso de Deus (c077244.G CD7390 SEGES_CC_PRIMARY@CD7390ET721)
+  "Data: 14/12/2009
+   Descrição: Criação da Pasta
+   Autor: Iara Afonso de Deus"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICBA\05-Implantacao\Build@@\main\1"
+  created 2014-06-30T17:54:14-03:00 by Luiz Sergio de Almeida Mesquita (c599289.Domain Users@DF7390ET261)
+  "Criação da pasta."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICCD\05-Implantacao\Build@@\main\1"
+  created 2019-01-21T15:29:21-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICCD"
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICCR\05-Implantacao\Build@@\main\1"
+  created 2018-12-14T17:31:48-03:00 by Haroldo Luiz Dias da Silva (c024894.Domain Users@DF7390ET038)
+  "padronizacao da vob"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICDC\05-Implantacao\Build@@\main\16"
+  created 2022-09-29T18:19:18-03:00 by Jonatha Lara Silverio (f588781.Domain Users@DF7390NB2095)
+  "RTC20480352
+   Added file element "sicdc_v1_1_0_35_0.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\15
+directory version "SICDE\05-Implantacao\Build@@\main\3"
+  created 2020-03-24T16:53:38-03:00 by f979095.G DF5088 CAST - ADM e CADASTRO@CBRSVAPRNT012
+  "Inclusão do artefato referente a  Buil: sicde_1.0.1.7.war
+    
+   Added file element "sicde_1.0.1.7.war"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SICDI\05-Implantacao\Build@@\main\1"
+  created 2020-03-25T10:42:31-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICDI"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICDM\05-Implantacao\Build@@\main\6"
+  created 2013-03-12T12:12:56-03:00 by Estevao Luiz Ribeiro de Andrade (F922564.Domain Users@cxextrnt287)
+  "Removido o .rar - não é o formato correto (Codigo_Fonte_Build_SICDM.rar).
+   Corrigido com a inclusão do artefato em .zip - Codigo_Fonte_Build_SICDM.zip
+    
+   Uncataloged file element "Codigo_Fonte_Build_SICDM.rar"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\5
+  Labels:
+    P3385_RJ201602142_0001_MET
+    RJ201600224_OS042
+    P3385_RJ201600725_OS001_CONSTRUCAO_ENT03_REV06
+    P3385_RJ201600725_OS001_CONSTRUCAO_ENT03_REV05
+    P3385_RJ201600725_OS001_CONSTRUCAO_ENT03_REV04
+    P3385_RJ201600725_OS001_CONSTRUCAO_ENT03_REV03
+    P3385_RJ201600725_OS001_CONSTRUCAO_ENT03_REV02
+    P3385_RJ201600725_OS001_CONSTRUCAO_ENT03_REV01
+    P3385_RJN201400138_OS001_ENT05
+    P3385_RJN201400138_OS001_ENT04
+    P3385_RJN201200164_OS001_ENT05
+directory version "SICDT\05-Implantacao\Build@@\main\1"
+  created 2018-12-18T17:15:54-03:00 by Haroldo Luiz Dias da Silva (c024894.Domain Users@DF7390ET038)
+  "padronizacao da vob"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICDU\05-Implantacao\Build@@\main\66"
+  created 2016-08-09T17:45:02-03:00 by F714364.G CD7390 GLOBALWEB@CXEXTRNT259
+  "Inserção de arquivo para atender a demanda  RTC1143721_BR201605054
+    
+   Added file element "mqteste.jar"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\65
+directory version "SICEF\05-Implantacao\Build@@\main\1"
+  created 2009-10-30T09:38:33-03:00 by Marcio Lourenco Midosi May (c079429.G CD7390 SECAP_CC_PRIMARY@CD7390ET094)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICEL\05-Implantacao\Build@@\main\1"
+  created 2012-01-06T11:37:31-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICFM\05-Implantacao\Build@@\main\5"
+  created 2013-06-18T14:48:40-03:00 by Paulo Ricardo Soares Pereira (F590407.Domain Users@CXEXTRNT234)
+  "versao 18-04-2013
+    
+   Added file element "build_sicfm.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+  Labels:
+    SICFM_RTC5331626
+    SICFM_RTC6834272_V3
+    SICFM_RTC6834272_V2
+    SICFM_RTC6834272
+    SICFM_RTC_7087031
+    SICFM_RTC_6112433_V2
+    SICFM_RTC_6112433
+    SICFM_RTC6511359_V3
+    SICFM_RTC6511359_V2
+    SICFM_RTC6511359
+    SICFM_RTC5331481_DEPLOY_14_20052018_V3
+    SICFM_RTC5331481_DEPLOY_14_20052018_V2
+    SICFM_RTC5331481_DEPLOY_14_20052018
+    P3390_RTC5331481_001
+    P3390_RTC4329768_001
+directory version "SICGB\05-Implantacao\Build@@\main\1"
+  created 2022-01-19T09:59:19-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICHA\05-Implantacao\Build@@\main\1"
+  created 2019-02-21T11:45:07-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICHA"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICID\05-Implantacao\Build@@\main\1"
+  created 2012-05-17T19:23:11-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICIE\05-Implantacao\Build@@\main\1"
+  created 2012-03-19T12:07:16-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICIN\05-Implantacao\Build@@\main\1"
+  created 2021-07-22T17:45:45-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICIN"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c090278 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICLG\05-Implantacao\Build@@\main\1"
+  created 2022-08-09T16:36:45-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICLI\05-Implantacao\Build@@\main\1"
+  created 2012-06-04T12:32:29-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICML\05-Implantacao\Build@@\main\1"
+  created 2020-03-13T16:18:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICML"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICMU\05-Implantacao\Build@@\main\2"
+  created 2015-10-26T08:49:55-03:00 by c081122.G CR7265 SERVICOS_FUNDOS@cxextrnt287
+  "ear do SICMU para avalidação de erros 
+    
+   Added file element "SICMU-ear.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    P4516_RJ2015013970002_MET
+    P4516_RJ201501397_002_MET
+    P4516_RJ201501397_0002_MET
+directory version "SICNL\05-Implantacao\Build@@\main\8"
+  created 2014-02-20T16:05:42-03:00 by Vladimir Ilitch Tavares Marcondes Castro (c077920.Domain Users@CR7265ET765)
+  "Deploy SICNL
+   Added directory element "build_sicnl"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+directory version "SICNS_AR\05-Implantacao\Build@@\main\2"
+  created 2014-04-25T14:32:13-03:00 by Marcos Bacellar Ferreira (F612346.Domain Users@cxextrnt287)
+  "versão 7 do executavel do sicns-ar e do atualizador de versao
+    
+   Added file element "builder_CNS_AR.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    MIGRACAO_GIT
+directory version "SICNS_ICP\05-Implantacao\Build@@\main\26"
+  created 2021-10-13T12:50:27-03:00 by c134469.G RJ7265 CC_CAIXA@CADSVAPRNT008
+  "incluir
+    
+   Added directory element "Kriptonita_SICNS_ICP_V2"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\25
+directory version "SICNX\05-Implantacao\Build@@\main\30"
+  created 2016-02-23T16:01:37-03:00 by f553531.G CR7265 FAB GLOBALWEB@cxextrnt287
+  "aplicação retag para atender o cnx.
+    
+   Added file element "retag-mig-SJS-NovaServletUpload.rar"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\29
+  Labels:
+    MIGRACAO-GIT
+    P3706_RJ201700430_OS001_S001_CONSTRUCAO_ITERACAO1_ENT001
+directory version "SICOD\05-Implantacao\Build@@\main\1"
+  created 2021-12-09T14:34:18-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c085055 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICOF\05-Implantacao\Build@@\main\2"
+  created 2017-11-01T16:33:06-03:00 by Vitor Branco Campos (c046083.Domain Users@df7390nb347)
+  "Added file element "SICOF_RELEASE002_Publicada.mpp".
+   Added file element "SICOF_RELEASE003_Publicada.mpp"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SICOM\05-Implantacao\Build@@\main\1"
+  created 2011-12-23T14:49:19-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICOP\05-Implantacao\Build@@\main\1"
+  created 2012-04-25T16:50:49-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    POS_ORGANIZACAO_CEDESRJ061
+    PRE_ORGANIZACAO_CEDESRJ061
+directory version "SICOW\05-Implantacao\Build@@\main\1"
+  created 2022-06-08T16:38:27-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura padrao de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICPC\05-Implantacao\Build@@\main\1"
+  created 2013-03-20T16:50:15-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    SICPC_PROC_28251
+    SICPC_PROC_CPCDP906
+directory version "SICPF\05-Implantacao\Build@@\main\9"
+  created 2016-09-26T15:43:39-03:00 by f664495.G CR7265 FAB MSA-TTY@cxextrnt287
+  " 
+   Added file element "D20160906_001_SICPF_V01_01_01_TomCat_6.0.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\8
+  Labels:
+    MIGRACAO_GIT
+directory version "SICPT\05-Implantacao\Build@@\main\3"
+  created 2022-09-16T15:34:30-03:00 by Wilson Reges Casado (c135737.Domain Users@DF5142NB278)
+  "Added file element "capacidade_1.27.0.ear".
+   Added file element "capacidade_1.28.0.ear".
+   Added file element "capacidade_1.24.0.ear".
+   Added file element "capacidade_1.25.0.ear".
+   Added file element "capacidade_1.26.0.ear"."
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SICRB\05-Implantacao\Build@@\main\4"
+  created 2019-06-06T18:33:29-03:00 by c058714.g cr7265 suporte_caixa@cxextrnt287
+  "dados_siapf
+    
+   Added file element "Dados_SIAPF.docx"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SICRE\05-Implantacao\Build@@\main\116"
+  created 2020-11-20T19:11:13-03:00 by f754852.g df7390 cast@CBRSVAPRNT009
+  "Inclusão
+    
+   Added file element "SICRE_Build_V102082_20200818.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\115
+directory version "SICRH\05-Implantacao\Build@@\main\1"
+  created 2012-03-21T11:21:08-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P3383_RJ201102103_OS002_E001
+directory version "SICRS\05-Implantacao\Build@@\main\25"
+  created 2017-07-12T16:56:11-03:00 by F621399.G CD7390 SPREAD@CXEXTRNT259
+  "RTC2061569
+    
+   Added file element "sicrsV01R132.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\24
+directory version "SICSE\05-Implantacao\Build@@\main\25"
+  created 2017-06-28T15:17:05-03:00 by f922564.G CR7265 FAB STEFANINI@cxextrnt287
+  "Movido para a pasta SUN, após retirada de checkout da pasta SUN.
+    
+   Uncataloged file element "Build_Sicse_Junho_2017.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\24
+  Labels:
+    MIGRACAO_GIT
+directory version "SICSF\05-Implantacao\Build@@\main\1"
+  created 2012-03-23T14:57:51-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICSI\05-Implantacao\Build@@\main\1"
+  created 2012-03-27T18:44:35-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICSU\05-Implantacao\Build@@\main\1"
+  created 2019-04-22T14:08:45-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICSU"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICTB\05-Implantacao\Build@@\main\1"
+  created 2017-11-03T19:01:31-03:00 by Vitor Branco Campos (c046083.Domain Users@df7390nb347)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICTM\05-Implantacao\Build@@\main\1"
+  created 2019-09-27T14:12:06-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICTM"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICTR\05-Implantacao\Build@@\main\13"
+  created 2014-07-08T13:14:42-03:00 by Joyse Chacon Martins Noronha (F659869.Domain Users@cxextrnt287)
+  "SictrJboss6.zip
+    
+   Added file element "SictrJboss6.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\12
+  Labels:
+    SICTRFULL
+    5.4.96A
+directory version "SICVR\05-Implantacao\Build@@\main\1"
+  created 2021-07-09T11:06:40-03:00 by c113782.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SICVR"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SICVS\05-Implantacao\Build@@\main\16"
+  created 2019-03-18T18:45:38-03:00 by c051318.G CR7265 SERVICOS_FUNDOS@cxextrnt287
+  " 
+   Uncataloged file element "SIAHA.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\15
+directory version "SIDAP\05-Implantacao\Build@@\main\1"
+  created 2012-02-13T10:52:22-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIDAS\05-Implantacao\Build@@\main\1"
+  created 2015-08-20T17:28:41-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIDAT\05-Implantacao\Build@@\main\2"
+  created 2012-05-30T15:39:03-03:00 by Estevao Luiz Ribeiro de Andrade (F922564.Domain Users@CXEXTRNT174)
+  "Adição do pacote build - emissao documento - SIDAT
+    
+   Added file element "emissao_des.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIDCE\05-Implantacao\Build@@\main\1"
+  created 2022-05-31T10:29:54-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura padrao de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIDIP\05-Implantacao\Build@@\main\1"
+  created 2022-05-03T14:51:52-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura padrao de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIDIS\05-Implantacao\Build@@\main\1"
+  created 2020-05-26T11:28:15-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIDIS"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIDJV\05-Implantacao\Build@@\main\3"
+  created 2017-07-17T17:52:46-03:00 by f759449.G RJ7265 FAB FIRST_DECISION@cxextrnt287
+  "MaterializedViews utilizadas no SAPBO.
+    
+   Added directory element "Views"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIDOU\05-Implantacao\Build@@\main\1"
+  created 2021-03-12T11:02:59-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIDOU"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIDRJ\05-Implantacao\Build@@\main\2"
+  created 2012-05-17T16:47:26-03:00 by r557243.Domain Users@CXEXTRNT174
+  "Artefato incluído por determinação do Claudio Carvalho / Thiago Tatagiba
+    
+   Added file element "SIDRJ_ASP.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIDSC\05-Implantacao\Build@@\main\1"
+  created 2020-05-19T14:11:53-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIDSC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIEAD\05-Implantacao\Build@@\main\2"
+  created 2020-07-29T17:45:46-03:00 by f794606.G DF5088 CAST - ADM e CADASTRO@CBRSVAPRNT012
+  "Inclusão
+   
+    
+   Added file element "siead_api_01.00.00.01.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5088 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIEDD\05-Implantacao\Build@@\main\2"
+  created 2019-12-23T17:54:13-03:00 by Mauricio Dias de Carvalho Machado (f796788.Domain Users@DF5088ET185)
+  "Versão final de implantação (DES,PRD).
+   Added file element "siedd.ear"."
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIEDT\05-Implantacao\Build@@\main\1"
+  created 2011-12-28T12:30:00-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIEFI\05-Implantacao\Build@@\main\86"
+  created 2020-10-20T15:09:05-03:00 by c111792.Domain Users@DF7390NB631
+  "Added file element "SIEFI_BUILD_V_1_40_00_RM_15920548.zip".
+   Uncataloged file element "SIEFI_BUILD_V_1_40_00_RM_15920548.txt"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\85
+directory version "SIEGH\05-Implantacao\Build@@\main\1"
+  created 2012-03-28T14:00:26-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIEMP\05-Implantacao\Build@@\main\1"
+  created 2012-07-18T10:46:46-03:00 by Maria Luciene Diniz Ferreira (c101484.Domain Users@DF7390ET836)
+  "ajuste do novo modelo de uso do ClearCase em jun/2012"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    8.29.0.2
+    8.0.0.2
+    8.0.0.1
+    V8_0_ENT001
+directory version "SIEPA\05-Implantacao\Build@@\main\7"
+  created 2017-12-28T11:15:25-03:00 by Acyr Frederico Leocadio (c135326.Domain Users@DF7390ET602)
+  "Uncataloged file element "SIEPA_HMP_PRD_FRM_ORA_SCRIPT.doc"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SIEPR\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:38:53-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIEVJ\05-Implantacao\Build@@\main\20"
+  created 2022-08-04T14:52:44-03:00 by F793872.G DF5222 CC_CAST@CBRSVAPRNT009
+  "ear incluido na pasta errada
+    
+   "
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\19
+directory version "SIEXT\05-Implantacao\Build@@\main\1"
+  created 2012-02-27T13:03:46-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFAG\05-Implantacao\Build@@\main\8"
+  created 2016-06-13T20:10:24-03:00 by f653011.G CR7265 FAB STEFANINI@cxextrnt287
+  "filipe souza: 2 novo ear 1.4.13
+    
+   Added file element "sifag-ear.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+  Labels:
+    V1.5.2
+    V.1.5.1
+directory version "SIFAP\05-Implantacao\Build@@\main\7"
+  created 2013-10-29T16:19:37-03:00 by Estevao Luiz Ribeiro de Andrade (F922564.Domain Users@CXEXTRNT234)
+  "RJN201301984 OS 2 - Sustentação - Serviço de Análise e Diagnóstico de Demanda - Entrega 1 - 29102013 1619 
+    
+   Added file element "CAIXA-SIFAP-Notas_Release.doc"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SIFBK\05-Implantacao\Build@@\main\3"
+  created 2020-09-21T21:16:42-03:00 by Ewerton Rofran dos Santos Andrade (c088911.Domain Users@DF5088NB259)
+  "Added file element "sifbk_092020.war".
+   Uncataloged file element "sifbk.war"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIFCF\05-Implantacao\Build@@\main\8"
+  created 2012-12-28T10:45:06-03:00 by c048546.Domain Users@cxextrnt287
+  " 
+   Uncataloged file element "build_sifcf.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+directory version "SIFCG\05-Implantacao\Build@@\main\1"
+  created 2012-07-31T18:34:18-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFCP\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:51:58-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFCV\05-Implantacao\Build@@\main\7"
+  created 2016-04-08T11:59:45-03:00 by c051162.G CR7265 SERVICOS_FUNDOS@cxextrnt287
+  " 
+   Added directory element "FCVSCONT_SP"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SIFDL\05-Implantacao\Build@@\main\2"
+  created 2014-05-07T09:17:08-03:00 by Alex Cardoso Galvao (c127247.Domain Users@DF7390ET730)
+  "inclusão de nova versão.
+   Added file element "sifdl.war"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    1.0.0.0
+directory version "SIFDS\05-Implantacao\Build@@\main\1"
+  created 2012-03-19T15:39:35-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFGE\05-Implantacao\Build@@\main\1"
+  created 2011-12-29T10:59:30-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFGP\05-Implantacao\Build@@\main\1"
+  created 2022-07-26T10:07:24-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c053068 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFGS\05-Implantacao\Build@@\main\1"
+  created 2011-12-12T16:10:33-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFGU\05-Implantacao\Build@@\main\1"
+  created 2011-12-28T16:57:59-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFPM\05-Implantacao\Build@@\main\1"
+  created 2012-01-30T19:15:43-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFRS\05-Implantacao\Build@@\main\7"
+  created 2021-05-13T17:13:17-03:00 by F979095.G DF5088 CAST - ADM e CADASTRO@CBRSVAPRNT012
+  "Inclusão
+    
+   Added file element "sifrs_Versao_Antiga_13052021.war"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SIFSA\05-Implantacao\Build@@\main\1"
+  created 2014-03-14T11:50:30-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIFUG\05-Implantacao\Build@@\main\14"
+  created 2019-04-11T17:04:27-03:00 by c050611.G CR7265 FUNDOS_SEGUROS@cxextrnt287
+  "Inclusão de autorização para a mudança CRQ000000425030
+    
+   Added directory element "CRQ000000425030"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\13
+directory version "SIGAF\05-Implantacao\Build@@\main\3"
+  created 2011-06-07T15:27:02-03:00 by Alexandre Marinho Mendes (F504355.Domain Users@cxextrnt287)
+  "Menu duplicado, Barra de edição e Tipo 14"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+  Labels:
+    P3545_RJ201100700_OS001_S001_INICIACAO_E001
+    P3544_RJ200903867_OS006_S001_TESTES
+directory version "SIGBC\05-Implantacao\Build@@\main\3"
+  created 2017-12-11T13:27:32-03:00 by c094699.G CR7265 SUPORTE_CAIXA@cxextrnt287
+  "Mudança cidades piloto
+    
+   Added directory element "PENTAHO"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIGBD\05-Implantacao\Build@@\main\2"
+  created 2015-11-11T19:31:41-03:00 by Delmario Prates Alves (c066180.Domain Users@DF7390ET534)
+  "INCLUSÃO
+   Added file element "SIGBD_Aplicacoes.zip".
+   Added file element "SIGBD_Tomcat_JDK.zip".
+   Added file element "SIGBD_Componentes_WEBCAM.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIGCN\05-Implantacao\Build@@\main\1"
+  created 2021-09-02T08:46:21-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGCN"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c074493 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGCS\05-Implantacao\Build@@\main\1"
+  created 2012-06-13T10:21:58-03:00 by Fabio Callai Paiva de Melo (c108813.G CD7390 SECAC_CC_PRIMARY@DF7390ET924)
+  "Diretório criado para adequação ao modelo de uso."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    RTC7738360_REC001
+directory version "SIGDU\05-Implantacao\Build@@\main\1"
+  created 2012-10-23T14:00:13-03:00 by s540401.Domain Users@CXEXTRNT118
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P3744_RJ201401620_OS002_S001_E001
+    P3744_RJ201401620_OS001_S001_E001
+directory version "SIGEC_COM\05-Implantacao\Build@@\main\1"
+  created 2020-07-06T10:09:47-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGEC_COM"
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGEC_CSC\05-Implantacao\Build@@\main\1"
+  created 2020-07-01T15:00:19-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGEC_CSC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGEC_POR\05-Implantacao\Build@@\main\1"
+  created 2020-07-06T10:10:51-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGEC_POR"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGEP\05-Implantacao\Build@@\main\16"
+  created 2014-10-03T12:50:37-03:00 by f590407.G CR7265 FAB STEFANINI@cxextrnt287
+  " 
+   Uncataloged file element "teste.txt"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\15
+  Labels:
+    SIGEP_RTC_7712298
+    SIGEP_RTC_6419807_V8
+    SIGEP_RTC_6419807_V7
+    SIGEP_RTC_6419807_V6
+    SIGEP_RTC_6419807_V5
+    SIGEP_RTC_6419807_V4
+    SIGEP_RTC_6419807_V3
+    SIGEP_RTC_6419807
+    SIGEP_RTC4848689_DEPLOY_V2.97.0_V2
+    SIGEP_RTC4848689_DEPLOY_V2.97.0
+    SIGEP_RTC4848689_DEPLOY_V296.3
+    SIGEP_RTC4848641_DEPLOY_V296.3
+    SIGEP_RTC4396067_DEPLOY_V295.1
+    P2507_SIGEP_RTC4396067_DEPLOY_V296_MAIN184
+    2.95.1
+    2.95
+    2.94.2
+    2.94.1
+    2.94
+    2.91_V2
+    1.0
+    P2507_SIGEP_DEPLOY_V289_MAIN138_2
+    P2507_SIGEP_DEPLOY_V289_MAIN138
+    P2507_SIGEP_DEPLOY_V288_MAIN132
+    P2507_SIGEP_DEPLOY_V288_MAIN126
+    P2507_SIGEP_DEPLOY_V288_MAIN127
+    P2507_SIGEP_DEPLOY_V283_MAIN124
+    P2507_SIGEP_DEPLOY_V283
+directory version "SIGFA_ANTIGA\05-Implantacao\Build@@\main\1"
+  created 2019-01-17T13:33:38-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGFA"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGFC\05-Implantacao\Build@@\main\2"
+  created 2012-03-21T15:43:43-03:00 by s540401.Domain Users@CXEXTRNT118
+  "Added directory element "executaveis"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    TREINA
+directory version "SIGGS\05-Implantacao\Build@@\main\1"
+  created 2014-12-01T10:04:46-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGHA\05-Implantacao\Build@@\main\9"
+  created 2014-11-05T11:11:36-03:00 by F922564.G CR7265 FAB STEFANINI@cxextrnt287
+  "RJ201400508 0001-04/11/2014 19:04
+   OS 1 - Migração de Base de Dados - Única - Entrega: 4
+    
+   Added file element "Codigo_Fonte_Migracao_SIGHA.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\8
+  Labels:
+    P4297_RJ201401801_OS001_ENT01_REV03
+    SIGHA_20170517
+    RJ201502610_INICIO
+    P4296_RJ201400508_OS001_ENT004_REV02
+directory version "SIGID\05-Implantacao\Build@@\main\6"
+  created 2018-01-04T16:57:44-03:00 by Liney Rodrigues dos Reis (c070345.Domain Users@DF7390NB314)
+  "Script para mover usuarios de uma PA para outra no RTC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c102432 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\5
+directory version "SIGIS\05-Implantacao\Build@@\main\1"
+  created 2014-06-04T10:17:31-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGLM\05-Implantacao\Build@@\main\1"
+  created 2021-11-04T17:32:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c066331 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGOC\05-Implantacao\Build@@\main\1"
+  created 2021-10-14T14:01:47-03:00 by f548176.Domain Users@CBRSVAPRNT010
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGOP\05-Implantacao\Build@@\main\1"
+  created 2011-11-25T12:26:40-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGOT\05-Implantacao\Build@@\main\1"
+  created 2019-08-13T09:50:41-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGOT"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGPD\05-Implantacao\Build@@\main\1"
+  created 2020-11-04T11:39:08-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGPD"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGPL\05-Implantacao\Build@@\main\1"
+  created 2019-04-05T16:40:45-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGPL"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGPN\05-Implantacao\Build@@\main\2"
+  created 2021-11-19T19:04:43-03:00 by F539370.G DF5222 CC_GLOBALWEB@CADSVAPRNT008
+  "BR202102580_RTC17832511
+    
+   Added file element "SIGPN_Scrip_Importacao_Mandatos.metadata"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIGRS\05-Implantacao\Build@@\main\2"
+  created 2012-05-21T15:47:05-03:00 by Paulo Ricardo Soares Pereira (F590407.Domain Users@CXEXTRNT174)
+  "Novo build
+    
+   Added file element "build_sigrs.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    MIGRACAO_GIT
+directory version "SIGSR\05-Implantacao\Build@@\main\1"
+  created 2020-07-22T14:39:47-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGSR"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c074342 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGST\05-Implantacao\Build@@\main\3"
+  created 2017-10-19T17:06:29-03:00 by f922564.G CR7265 FAB STEFANINI@cxextrnt287
+  "RJ201400694 OS 1 - Manutenção Evolutiva - Transição - Entrega: 6 -19/10/2017 17:57
+    
+   Added directory element "Fontes_VB6_Batch"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIGTC\05-Implantacao\Build@@\main\13"
+  created 2017-11-07T12:01:31-03:00 by Vitor Branco Campos (c046083.Domain Users@df7390nb347)
+  "Added file element "logs_05012016.zip".
+   Added file element "sigtc_cartoes_logs_21_03_16.zip".
+   Added file element "sigtc_logs050116.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\12
+directory version "SIGTF\05-Implantacao\Build@@\main\1"
+  created 2012-01-18T10:05:42-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P3268_RJN201301156_OS001_IMPLEMENTACAO_R003
+    P3727_RJ201201909_OS001_SERVICO_S001_E001
+directory version "SIGTS\05-Implantacao\Build@@\main\1"
+  created 2021-07-27T09:43:17-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIGTS"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c090278 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIGTX\05-Implantacao\Build@@\main\1"
+  created 2014-08-13T13:38:48-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIHDG\05-Implantacao\Build@@\main\1"
+  created 2021-09-01T20:30:59-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIHDG"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134295 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIIBS\05-Implantacao\Build@@\main\3"
+  created 2014-12-09T16:46:33-03:00 by F976138.G CR7265 FAB GLOBALWEB@cxextrnt287
+  " 
+   Uncataloged directory element "Pentaho"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIICE\05-Implantacao\Build@@\main\3"
+  created 2019-04-25T14:02:35-03:00 by c058714.g cr7265 suporte_caixa@cxextrnt287
+  "arquivo_xsd
+    
+   Added file element "RetornoEvento-v1_2_1.xsd"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIICO\05-Implantacao\Build@@\main\16"
+  created 2021-01-31T16:38:15-03:00 by C076853.G RJ7265 CC_CAIXA@CADSVAPRNT008
+  "logs PRD
+    
+   Added file element "server-drjscapllx049_siico_intra_8081.log.2021-01-29.txt"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\15
+directory version "SIICO_BR_I\05-Implantacao\Build@@\main\1"
+  created 2017-11-08T18:31:29-03:00 by Vitor Branco Campos (c046083.Domain Users@df7390nb347)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIICO_BR_P\05-Implantacao\Build@@\main\1"
+  created 2017-11-16T14:19:58-03:00 by Vitor Branco Campos (c046083.Domain Users@df7390nb347)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIICP\05-Implantacao\Build@@\main\1"
+  created 2012-06-28T17:43:49-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIICX\05-Implantacao\Build@@\main\1"
+  created 2017-01-04T13:56:17-03:00 by f627203.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIICX"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c098443 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIIDF\05-Implantacao\Build@@\main\4"
+  created 2018-02-15T16:56:33-03:00 by f734591.G RJ7265 FAB FIRST_DECISION@cxextrnt287
+  "Arquivo XML
+    
+   Added file element "wkf_IMPORTACAO_SICONV.XML"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SIIFG\05-Implantacao\Build@@\main\5"
+  created 2019-02-20T17:20:56-03:00 by c094699.g cr7265 suporte_caixa@cxextrnt287
+  "problema
+    
+   Added directory element "DATAMAPS"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+  Labels:
+    P4647_RJ202001724_OS001_CONSTRUCAO_E001
+    P4647_RJ202001002_OS001_TRANSICAO_E002
+    P4647_RJ202001486_OS001_ELABORACAO_E002
+    P4647_RJ202001002_OS001_ELABORACAO_E002
+    P4647_RJ202001002_OS001_ELABORACAO_E001
+    P4647_RJ202001054_OS001_ELABORACAO_E001
+directory version "SIIFX\05-Implantacao\Build@@\main\1"
+  created 2019-10-23T14:36:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIIFX"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIIGA\05-Implantacao\Build@@\main\1"
+  created 2017-09-11T13:37:54-03:00 by f548176.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIIGA"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIIND\05-Implantacao\Build@@\main\2"
+  created 2012-05-25T11:17:10-03:00 by Estevao Luiz Ribeiro de Andrade (F922564.Domain Users@CXEXTRNT174)
+  "Build SIIND.
+    
+   Added file element "build_siind.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIING\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:52:17-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIINP\05-Implantacao\Build@@\main\1"
+  created 2022-07-13T12:04:01-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIIOF\05-Implantacao\Build@@\main\7"
+  created 2012-09-26T08:13:04-03:00 by r612202.Domain Users@cxextrnt287
+  "deploy 2.68"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SIIPO\05-Implantacao\Build@@\main\1"
+  created 2019-02-21T11:38:28-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIIPO"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIISC\05-Implantacao\Build@@\main\1"
+  created 2015-10-16T13:57:02-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIISO-PJ\05-Implantacao\Build@@\main\1"
+  created 2012-04-05T17:49:28-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIISO-PN\05-Implantacao\Build@@\main\9"
+  created 2021-01-08T14:16:38-03:00 by f576987.G RJ7265 FAB RESOURCE@CADSVAPRNT008
+  "Inclusao RTC15019695
+    
+   Added file element "SIISO-web_08_01_2021.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\8
+directory version "SIISO-RET\05-Implantacao\Build@@\main\2"
+  created 2012-04-10T14:46:42-03:00 by s540401.Domain Users@CXEXTRNT118
+  "Added file element "SIISO-web.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIISO-WEB\05-Implantacao\Build@@\main\2"
+  created 2013-03-18T17:41:13-03:00 by Joyce Chacon Martins Noronha (F659869.Domain Users@cxextrnt287)
+  "Codigo_Fonte
+    
+   Added file element "SIISO_Web.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIISO_SPI\05-Implantacao\Build@@\main\2"
+  created 2012-06-14T11:50:49-03:00 by Rodrigo Afonso Macedo (F652911.Domain Users@CXEXTRNT174)
+  "inclusão de novo arquivo do fonte do siiso em substituição ao primeiro enviado
+    
+   Added file element "SIISO-web.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIITG\05-Implantacao\Build@@\main\1"
+  created 2011-12-22T13:32:04-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P0246_RJ201200488_OS0001_S0002_ELABORACAO_CONSTRUCAO_E1
+directory version "SIJUR\05-Implantacao\Build@@\main\1"
+  created 2022-06-27T16:32:37-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura padrao de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIJUR_LEG\05-Implantacao\Build@@\main\19"
+  created 2018-02-22T10:00:41-03:00 by Haroldo Luiz Dias da Silva (c024894.Domain Users@DF7390ET038)
+  "Added directory element "SIJUR_1_33_1"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\18
+directory version "SIKPJ\05-Implantacao\Build@@\main\1"
+  created 2012-03-14T14:26:59-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+Non-MVFS directory "SILCO\05-Implantacao\Build"
+  Modified: quinta-feira, 9 de setembro de 2021 10:44:31
+  Protection:
+    User : NOBODY   : rwx
+    Group: NOBODY   : rwx
+    Other:          : rwx
+directory version "SILCR\05-Implantacao\Build@@\main\16"
+  created 2022-08-24T16:09:12-03:00 by Vinicius Azevedo Nunes (c112145.Domain Users@DF7390NB632)
+  "Inserção do diretório para inclusão de build para HMP.
+   Added directory element "HMP"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\15
+directory version "SILDG\05-Implantacao\Build@@\main\1"
+  created 2018-07-10T09:33:37-03:00 by f548176.Domain Users@CXEXTRNT133
+  "Importando Estrutura de pastas para a VOB SILDG"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : NT:S-1-5-21-2994637511-790031978-1797744665-74954 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SILIC\05-Implantacao\Build@@\main\1"
+  created 2022-08-11T10:18:34-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SILOG\05-Implantacao\Build@@\main\1"
+  created 2022-05-27T16:15:37-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura padrao de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SILRC\05-Implantacao\Build@@\main\1"
+  created 2015-11-23T16:02:44-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMCD\05-Implantacao\Build@@\main\2"
+  created 2017-07-18T14:16:33-03:00 by Rodrigo Galvao Nahas Silva (c071310.Domain Users@DF7390ET725)
+  "Solicitado por Ivan Ferreira (134541-6)
+   Added directory element "Adroid".
+   Added directory element "IOS"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIMCF\05-Implantacao\Build@@\main\2"
+  created 2012-05-25T17:52:17-03:00 by c069797.Domain Users@CXEXTRNT174
+  "Registrando a entrada do legado, entregue pela DBA pois estava sem link
+    
+   Added file element "SIMCF_JAVA.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIMDP\05-Implantacao\Build@@\main\2"
+  created 2012-05-17T16:49:04-03:00 by r557243.Domain Users@CXEXTRNT174
+  "Incluido por determinação do Claudio Carvalho / Thiago Tatagiba
+    
+   Added file element "SIMDP_ASP.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIMEI\05-Implantacao\Build@@\main\1"
+  created 2011-11-17T16:12:19-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMJT\05-Implantacao\Build@@\main\1"
+  created 2018-01-24T10:07:46-03:00 by f548176.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIMJT"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMKT\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:52:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMPD\05-Implantacao\Build@@\main\1"
+  created 2021-05-06T09:59:54-03:00 by f548176.Domain Users@CBRSVAPRNT010
+  "Importando Estrutura de pastas para a VOB SIMPD"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMPF\05-Implantacao\Build@@\main\1"
+  created 2022-08-10T15:20:51-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110507 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMPH\05-Implantacao\Build@@\main\1"
+  created 2017-11-03T08:08:52-03:00 by f548176.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIMPH"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c113253 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMPI\05-Implantacao\Build@@\main\1"
+  created 2020-02-19T17:56:28-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIMPI"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMPR\05-Implantacao\Build@@\main\1"
+  created 2022-07-25T11:44:01-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c090141 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMSC\05-Implantacao\Build@@\main\1"
+  created 2018-01-19T16:38:54-03:00 by f548176.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIMSC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIMTR\05-Implantacao\Build@@\main\1"
+  created 2022-08-22T18:12:29-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c095071 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINAJ\05-Implantacao\Build@@\main\1"
+  created 2013-12-17T14:32:17-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINAPI\05-Implantacao\Build@@\main\1"
+  created 2012-03-07T12:38:48-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P4232_RJN201400291_RTC362187_CONSULTAPUBLICA_V01
+    LABEL_FONTES_TESTE1
+    P1194_RJ201201194_OS001_S001_SERVICO_E001
+directory version "SINBC\05-Implantacao\Build@@\main\2"
+  created 2016-01-08T13:14:10-03:00 by f715876.G CS7266 CC_REGIAO_CPM@CXEXTRNT178
+  "nova pasta builds
+    
+   Added directory element "sinbc_internet"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s725933 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : rwx
+  element type: directory
+  predecessor version: \main\1
+directory version "SINCE\05-Implantacao\Build@@\main\2"
+  created 2017-02-23T15:23:47-03:00 by f629855.G CR7265 FAB INDRAPOLITEC@cxextrnt287
+  "Inclusão de pasta com as versões de Deploy do SINCE
+    
+   Added directory element "Deploy"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SINCH\05-Implantacao\Build@@\main\1"
+  created 2016-03-02T11:14:12-03:00 by Antonio Lins de Albuquerque Junior (f692548.Domain Users@DF7390ET290)
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c113253 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINCV\05-Implantacao\Build@@\main\1"
+  created 2020-01-30T13:52:58-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SINCV"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINDA\05-Implantacao\Build@@\main\1"
+  created 2018-09-27T13:12:41-03:00 by f548176.Domain Users@cbrdeaprnt002
+  "Importando Estrutura de pastas para a VOB SINDA"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINEB\05-Implantacao\Build@@\main\18"
+  created 2020-12-31T10:19:22-03:00 by f596667.G DF7390 TIVIT@CBRSVAPRNT009
+  "Atendendo a demanda RTC_16282647
+    
+   Added file element "RTC16282647_Evidencia_teste.docx"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\17
+directory version "SINEP\05-Implantacao\Build@@\main\1"
+  created 2022-01-11T16:25:11-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c149851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINET\05-Implantacao\Build@@\main\1"
+  created 2022-09-13T11:27:05-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c074493 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINEW\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:52:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINOT\05-Implantacao\Build@@\main\4"
+  created 2018-07-10T17:49:44-03:00 by c079684.G CR7265 FUNDOS_SEGUROS@cxextrnt287
+  "primeira versao
+    
+   Added file element "sinotInternet.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SINOV\05-Implantacao\Build@@\main\1"
+  created 2019-08-02T14:44:48-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SINOV"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINPJ\05-Implantacao\Build@@\main\1"
+  created 2021-10-18T13:41:43-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c140955 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SINRP\05-Implantacao\Build@@\main\4"
+  created 2020-10-28T13:12:23-03:00 by f794606.G DF5088 CAST - ADM e CADASTRO@CBRSVAPRNT012
+  "Inclusão
+    
+   Added file element "nrp_integration.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SIOGU\05-Implantacao\Build@@\main\5"
+  created 2012-06-27T09:58:24-03:00 by r612202.Domain Users@CXEXTRNT174
+  "Deploy SIOGU"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+  Labels:
+    P4493_RJ201601212_OS001_ELABORACAO_E001
+    P4065_RJ201500573_OS001_S003_CONSTRUCAO_SEGURANCA_PCOTE3
+directory version "SIOPF\05-Implantacao\Build@@\main\5"
+  created 2012-12-27T12:02:13-03:00 by Murilo Bravim (F988027.Domain Users@cxextrnt287)
+  "Versão temporária, SIOPF BUID.
+    
+   Uncataloged file element "SIOPF_v1_temp.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+  Labels:
+    P2354_RJ201402556_OS001_S001_DETALHADA
+directory version "SIOPI_ATENDER\05-Implantacao\Build@@\main\1"
+  created 2022-09-14T11:45:47-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c113253 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIOTR\05-Implantacao\Build@@\main\1"
+  created 2020-04-16T15:41:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIOTR"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIOUV\05-Implantacao\Build@@\main\2"
+  created 2018-04-10T14:51:11-03:00 by Haroldo Luiz Dias da Silva (c024894.Domain Users@DF7390ET038)
+  "Criação de pasta a pedido da coordenação responsável pelo SIOUV.
+   Added directory element "Legado"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIPAB\05-Implantacao\Build@@\main\3"
+  created 2017-05-30T17:53:00-03:00 by f922564.G CR7265 FAB STEFANINI@cxextrnt287
+  "RJ201700544 OS 1 - Manutenção Evolutiva - Construção - Entrega: 3 -30/05/2017 16:51
+    
+   Added file element "SIPAB.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+  Labels:
+    MIGRACAO_GIT
+directory version "SIPAB_GESTAO\05-Implantacao\Build@@\main\1"
+  created 2012-03-08T15:45:40-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPAB_JUDIC\05-Implantacao\Build@@\main\1"
+  created 2012-03-08T11:38:13-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPAB_PARAM\05-Implantacao\Build@@\main\1"
+  created 2012-03-08T16:45:52-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPAC\05-Implantacao\Build@@\main\1"
+  created 2012-01-31T16:27:59-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPAS_RJ\05-Implantacao\Build@@\main\1"
+  created 2012-07-03T15:07:45-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+  Labels:
+    P3089_RJ201401415_OS008_S001_INSUMOS
+    P3089_RJ201401415_OS008_S001_SUSTENTACAO_E001
+    P1011_RJ201401609_OS001_S001_TRANSICAO_E001
+directory version "SIPCI\05-Implantacao\Build@@\main\4"
+  created 2013-11-26T11:43:27-03:00 by Thiago Eufrasio Carreiro Tatagiba (c069797.Domain Users@CR7265ET955)
+  "Carga inicial do pacote de fontes, solicitado pela equipe
+   Added file element "SIPCI.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+  Labels:
+    MIGRACAO_GIT
+    RETORNO
+directory version "SIPCS\05-Implantacao\Build@@\main\6"
+  created 2018-12-20T09:22:41-03:00 by Diego Gottselig (c134575.Domain Users@DF7390ET155)
+  "Uncataloged file element "sipcs.ear".
+   Uncataloged file element "sipcs_axis2.war".
+   Uncataloged file element "sipcs_cobranca.ear".
+   Uncataloged file element "sipcs_integracao.ear".
+   Uncataloged file element "sipcs_modulo.ear".
+   Uncataloged file element "sipcs_sat.ear".
+   Uncataloged file element "sipcs_sia.ear".
+   Uncataloged file element "sipcs_smp.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\5
+directory version "SIPCT\05-Implantacao\Build@@\main\1"
+  created 2013-09-18T10:37:10-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPDC\05-Implantacao\Build@@\main\1"
+  created 2021-11-22T15:23:21-03:00 by Miqueias de Sousa Bezerra (c134585.Domain Users@DF7390NB019)
+  "PDC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPDH\05-Implantacao\Build@@\main\8"
+  created 2021-11-25T14:24:53-03:00 by s739003.Domain Users@DF5142NB209
+  "Uncataloged directory element "15920739".
+   Uncataloged directory element "2.3.0.8".
+   Uncataloged directory element "15006587".
+   Uncataloged directory element "15559193".
+   Uncataloged directory element "15455024".
+   Uncataloged directory element "15680920"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c072688 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+directory version "SIPEF\05-Implantacao\Build@@\main\1"
+  created 2011-12-20T11:33:25-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPET\05-Implantacao\Build@@\main\2"
+  created 2012-06-12T18:57:22-03:00 by Rodrigo Gonçalves Monteiro (F659222.Domain Users@CXEXTRNT174)
+  "Adicionar Projeto Build Interno.
+    
+   Added file element "SIPET_WEB_2761.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    P2761_RJ201201217_OS001_S001_SERVICO_E001
+directory version "SIPET_DTM\05-Implantacao\Build@@\main\1"
+  created 2012-05-17T18:27:58-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPET_OFF\05-Implantacao\Build@@\main\1"
+  created 2012-03-30T09:39:15-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPFB\05-Implantacao\Build@@\main\1"
+  created 2022-02-17T11:19:54-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c087022 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPGC\05-Implantacao\Build@@\main\44"
+  created 2020-01-14T14:32:17-03:00 by f754852.G DF7390 cast@CBRSVAPRNT009
+  "Inclusão
+    
+   Added file element "capacidade_1.5.0.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\43
+directory version "SIPGE_JT\05-Implantacao\Build@@\main\3"
+  created 2018-05-30T10:45:05-03:00 by Carlos Eduardo Morais Alves (f695103.Domain Users@DF5088ET406)
+  "RTC 2785914
+   Added file element "WKF_001_SIPON_ARQUIVOS.XML"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIPIC\05-Implantacao\Build@@\main\1"
+  created 2019-01-16T14:44:57-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIPIC"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPIE\05-Implantacao\Build@@\main\3"
+  created 2013-03-14T11:25:08-03:00 by c074177.Domain Users@cxextrnt287
+  "Atualização"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+  Labels:
+    MIGRACAO_GIT
+directory version "SIPLE\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:52:17-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPNL\05-Implantacao\Build@@\main\1"
+  created 2022-09-13T12:09:56-03:00 by f780726.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\f780726 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPOP\05-Implantacao\Build@@\main\1"
+  created 2017-06-06T10:14:16-03:00 by f548176.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIPOP"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c078822 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPOR\05-Implantacao\Build@@\main\2"
+  created 2014-04-17T11:08:07-03:00 by c111312.Domain Users@cxextrnt287
+  " "
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    POS_ORGANIZACAO_CEDESRJ061
+    PRE_ORGANIZACAO_CEDESRJ061
+directory version "SIPPG\05-Implantacao\Build@@\main\0"
+  created 2021-12-17T14:29:59-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c135326 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+directory version "SIPPM\05-Implantacao\Build@@\main\1"
+  created 2017-05-30T14:18:38-03:00 by Robison Cleyton de Sousa (f548176.Domain Users@DF7390ET939)
+  "Importando Estrutura de pastas para a VOB SIPPM"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPPS\05-Implantacao\Build@@\main\1"
+  created 2021-02-23T13:57:54-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIPPS"
+  Element Protection:
+    User : CORPCAIXA\c134295 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPQV\05-Implantacao\Build@@\main\1"
+  created 2020-08-27T11:36:09-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIPQV"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPRC\05-Implantacao\Build@@\main\12"
+  created 2016-12-08T22:46:16-03:00 by f738509.G CD7390 MSA@CXEXTRNT259
+  "correção"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\11
+directory version "SIPRE\05-Implantacao\Build@@\main\8"
+  created 2013-03-25T15:30:06-03:00 by r533197.Domain Users@cxextrnt287
+  " 
+   Added file element "build_sipre_bkp.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+directory version "SIPRG\05-Implantacao\Build@@\main\3"
+  created 2022-01-27T18:39:36-03:00 by Marcio Lima Barbosa (f755377.nobody@DF7390ET131)
+  "Added file element "SIPRG_PPDS_Glossario.doc"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIPTO\05-Implantacao\Build@@\main\1"
+  created 2018-08-03T14:49:50-03:00 by f548176.Domain Users@cbrdeaprnt002
+  "Importando Estrutura de pastas para a VOB SIPTO"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c024894 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIPXS\05-Implantacao\Build@@\main\3"
+  created 2022-04-20T13:36:22-03:00 by f597804.G DF5222 CC_GLOBALWEB@CADSVAPRNT008
+  "Inclusão do artefato para atendimento da demanda: SIPXS - Criação de Portal Caixa Seguridade - RTC 16488197
+    
+   Added file element "Restaurar_SPSite.ps1".
+   Added file element "Criar_Estender_Web_Application.ps1".
+   Added file element "Backup_SPSite.ps1".
+   Added file element "Habilitar_BlobCache_SharePoint.ps1"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIRBI\05-Implantacao\Build@@\main\3"
+  created 2012-06-12T19:07:11-03:00 by Rodrigo Afonso Macedo (F652911.Domain Users@CXEXTRNT174)
+  "Padronização do build
+    
+   Added file element "SIRBI.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+  Labels:
+    MIGRACAO_GIT
+directory version "SIRCA\05-Implantacao\Build@@\main\1"
+  created 2019-12-02T16:18:52-03:00 by Calebe Goncalves da Silva (c116833.Domain Users@DF7390ET458)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRCL\05-Implantacao\Build@@\main\1"
+  created 2021-08-24T18:41:31-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIRCL"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRED\05-Implantacao\Build@@\main\1"
+  created 2020-01-17T16:40:08-03:00 by f548176.Domain Users@CBRSVAPRNT010
+  "Importando Estrutura de pastas para a VOB SIRED"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIREP\05-Implantacao\Build@@\main\1"
+  created 2015-08-10T15:19:18-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIREX\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:52:18-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRFO\05-Implantacao\Build@@\main\1"
+  created 2022-05-10T10:40:36-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura padrao de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\S725925 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRFT\05-Implantacao\Build@@\main\6"
+  created 2020-09-02T15:27:55-03:00 by f794606.G DF5088 CAST - ADM e CADASTRO@CBRSVAPRNT012
+  "Exclusão
+    
+   Uncataloged file element "sifbk.war"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\5
+directory version "SIRGC\05-Implantacao\Build@@\main\3"
+  created 2019-09-16T12:49:28-03:00 by Nelson Francisco Muniz Alves (c098443.Domain Users@DF7390NB606)
+  "Inclusão
+   Added directory element "SIRGC_1_1_0_Build".
+   Uncataloged directory element "Release_1"."
+  Element Protection:
+    User : CORPCAIXA\c098443 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIRIN\05-Implantacao\Build@@\main\1"
+  created 2019-08-02T15:17:24-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIRIN"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRMC\05-Implantacao\Build@@\main\1"
+  created 2022-03-03T10:58:01-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c087022 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRMO\05-Implantacao\Build@@\main\3"
+  created 2018-08-02T17:32:58-03:00 by C073950.G CR7265 FUNDOS_SEGUROS@cxextrnt287
+  " 
+   Added file element "Termo_de_liberação_SIRMO_V2.pdf"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SIRPI\05-Implantacao\Build@@\main\2"
+  created 2012-05-21T10:37:46-03:00 by r557243.Domain Users@CXEXTRNT174
+  "Inclusão por determinação do Claudio Carvalho / Thiago Tatagiba
+    
+   Added file element "SIRPI_ASP.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    MIGRACAO_GIT
+directory version "SIRPW\05-Implantacao\Build@@\main\5"
+  created 2019-07-05T11:54:15-03:00 by Milena Rocha de Souza Milani (c060542.Domain Users@DF5088NB311)
+  "entrega da fsw
+   Added file element "sirpw_pw3270_5_1_3_5_gtk_3_22_15_i686.exe".
+   Added file element "sirpw_pw3270_5_1_3_5_gtk_3_22_15_x86_64.exe"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+directory version "SIRPX\05-Implantacao\Build@@\main\1"
+  created 2018-12-11T13:24:03-03:00 by f548176.Domain Users@CXEXTRNT133
+  "Importando Estrutura de pastas para a VOB SIRPX"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRTE\05-Implantacao\Build@@\main\1"
+  created 2018-08-03T15:00:32-03:00 by f548176.Domain Users@cbrdeaprnt002
+  "Importando Estrutura de pastas para a VOB SIRTE"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRUR\05-Implantacao\Build@@\main\1"
+  created 2017-08-08T17:00:57-03:00 by f624405.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SIRUR"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIRVD\05-Implantacao\Build@@\main\5"
+  created 2018-09-11T15:34:11-03:00 by Thales Henrique Medeiros Machado (f584851.Domain Users@DF5088ET706)
+  "Atualização build projeto SIRVD.
+   Added file element "SirvdEarCaixa_1.1.0.60.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+directory version "SISAD\05-Implantacao\Build@@\main\1"
+  created 2014-10-16T14:55:03-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISAN\05-Implantacao\Build@@\main\1"
+  created 2021-03-12T11:03:54-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISAN"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISAT\05-Implantacao\Build@@\main\5"
+  created 2019-07-10T15:17:08-03:00 by Americo Vass Filho (c083932.G CS7266 CC_REGIAO_FINANCEIRO@SP7266ET576)
+  ".
+   Added directory element "20191007"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s725933 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\4
+directory version "SISCP\05-Implantacao\Build@@\main\2"
+  created 2012-08-23T15:08:05-03:00 by João Carlos Veiga da Silva (F952764.Domain Users@cxextrnt287)
+  "Inclusão do arquivo zip
+    
+   Added file element "siicp-framework-icp.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SISDD\05-Implantacao\Build@@\main\1"
+  created 2012-05-24T18:51:00-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISDD_WEB\05-Implantacao\Build@@\main\1"
+  created 2012-05-25T19:22:09-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISDE_RJ\05-Implantacao\Build@@\main\2"
+  created 2012-05-18T16:30:35-03:00 by Rodrigo Afonso Macedo (F652911.Domain Users@CXEXTRNT174)
+  "novo padrão de Build
+    
+   Added file element "sisde_monetaria.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    P0151_RJN201301118_OS002_S001_INSUMOS_METRICAS
+    P0151_RJN201301429_OS002_S001_TRANSICAO_E001
+    P0045_RJ201401392_OS004_S001_INSUMOS
+    P0045_RJ201401392_OS004_S001_SUSTENTACAO_E001
+    P0151_RJN201301118_OS001_S001_INSUMOS_METRICAS
+    P0151_RJN201301118_OS001_S001_METRICAS_E001
+    P0045_RJ201401392_OS003_S001_SUSTENTACAO_E001
+directory version "SISED\05-Implantacao\Build@@\main\2"
+  created 2012-05-16T18:08:33-03:00 by Murilo Bravim (F988027.Domain Users@CXEXTRNT174)
+  "Atendimento fontes do sistema
+    
+   Added file element "sised_legado.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SISEH\05-Implantacao\Build@@\main\2"
+  created 2012-05-28T12:47:23-03:00 by Paulo Ricardo Soares Pereira (F590407.Domain Users@CXEXTRNT174)
+  "Entrega dos fontes na transição do contrato
+    
+   Added file element "siseh_java.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SISEM\05-Implantacao\Build@@\main\4"
+  created 2012-05-03T15:05:50-03:00 by Murilo Bravim (F988027.Domain Users@CXEXTRNT174)
+  "Atendimento a demanda RJ200901201_OS079.
+    
+   Added file element "build_sisem.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+  Labels:
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R008
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R007
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R006
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R005
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R004
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R003
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R002
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001_R001
+    P3066_RJN201200109_OS001_S001_HOMOLOGACAO_E001
+    P3066_RJ200901201_OS079_S001_SERVICO_E001_R001
+    P3066_RJ200901201_OS079_S001_SERVICO_E001
+directory version "SISFD\05-Implantacao\Build@@\main\1"
+  created 2019-02-20T16:44:04-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISFD"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISFG\05-Implantacao\Build@@\main\7"
+  created 2012-05-23T14:23:39-03:00 by Lilian Rose Ramalho Lopes (F981247.Domain Users@CXEXTRNT174)
+  "conforme acordado em reuniao
+    
+   Added file element "BUILD_SDD_Atualizador.zip".
+   Added file element "BUILD_SDD.V2.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\6
+directory version "SISFIN\05-Implantacao\Build@@\main\0"
+  created 2015-04-13T14:56:51-03:00 by Luiz Sergio de Almeida Mesquita (c599289.Domain Users@DF7390ET261)
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134295 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+directory version "SISGC\05-Implantacao\Build@@\main\2"
+  created 2019-07-30T11:50:57-03:00 by Mara Rubia Alves de Lima (f955470.Domain Users@DF7390ET879)
+  "RTC10863063: Inclusão.
+   Added file element "sisgc.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SISGH\05-Implantacao\Build@@\main\1"
+  created 2020-08-12T13:47:43-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISGH"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c142851 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISGR\05-Implantacao\Build@@\main\1"
+  created 2012-04-18T11:33:37-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISIG\05-Implantacao\Build@@\main\1"
+  created 2021-02-11T14:19:19-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISIG"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISMN_NORMAS\05-Implantacao\Build@@\main\1"
+  created 2020-09-16T11:00:04-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISMN_NORMAS"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISMP\05-Implantacao\Build@@\main\4"
+  created 2015-10-02T19:27:11-03:00 by c058714.g cr7265 financiamento_social@cxextrnt287
+  " 
+   Added file element "sismp-ear.ear"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+  Labels:
+    1.5.1
+directory version "SISND\05-Implantacao\Build@@\main\1"
+  created 2012-10-01T13:42:46-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISNG\05-Implantacao\Build@@\main\1"
+  created 2022-07-25T11:19:39-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c090141 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISNP\05-Implantacao\Build@@\main\1"
+  created 2012-05-14T13:31:51-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISOU\05-Implantacao\Build@@\main\1"
+  created 2019-04-23T08:43:36-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISOU"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISPE\05-Implantacao\Build@@\main\1"
+  created 2019-08-13T09:51:11-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISPE"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISPF\05-Implantacao\Build@@\main\1"
+  created 2021-10-13T14:52:16-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c110509 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISPI\05-Implantacao\Build@@\main\1"
+  created 2020-02-19T17:58:18-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SISPI"
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISRP\05-Implantacao\Build@@\main\2"
+  created 2012-05-18T19:14:36-03:00 by Paulo Ricardo Soares Pereira (F590407.Domain Users@CXEXTRNT174)
+  "Entrega do Novo Build
+    
+   Added file element "build_sisrp.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SISSG\05-Implantacao\Build@@\main\1"
+  created 2012-05-04T13:05:29-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SISVC\05-Implantacao\Build@@\main\2"
+  created 2018-02-22T18:35:40-03:00 by f759449.G RJ7265 FAB FIRST_DECISION@cxextrnt287
+  "LCMBIAR SISVC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SITEM\05-Implantacao\Build@@\main\37"
+  created 2022-09-14T12:29:34-03:00 by F967801.G DF5222 CC_GLOBALWEB@CADSVAPRNT008
+  "Inclusão do artefato para atendimento da demanda: SITEM - Alteração de Layout Home Intranet - Exclusão webpart sipon - RTC 20302239
+    
+   Added file element "bundleIntranet.css"."
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\36
+directory version "SITIP\05-Implantacao\Build@@\main\1"
+  created 2018-02-28T16:58:35-03:00 by f548176.Domain Users@CXEXTRNT090
+  "Importando Estrutura de pastas para a VOB SITIP"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SITMA\05-Implantacao\Build@@\main\1"
+  created 2022-07-25T11:48:18-03:00 by f541364.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c090141 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SITRF\05-Implantacao\Build@@\main\1"
+  created 2012-02-24T18:08:31-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SITRJ\05-Implantacao\Build@@\main\1"
+  created 2012-04-03T14:17:57-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SITRP\05-Implantacao\Build@@\main\1"
+  created 2011-12-06T16:22:23-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIUCP\05-Implantacao\Build@@\main\4"
+  created 2012-04-19T17:52:48-03:00 by Paulo Ricardo Soares Pereira (F590407.Domain Users@CXEXTRNT174)
+  "Entrega do Novo Build
+    
+   Added file element "build_siucp.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\3
+directory version "SIURB\05-Implantacao\Build@@\main\2"
+  created 2012-01-13T10:02:39-03:00 by p567614.Domain Users@CXEXTRNT174
+  "IncLusão de executáveis conforme solicitação do SISOL 74979
+   Added directory element "vb".
+   Added directory element "Aplicativo".
+   Added directory element "dll_internet".
+   Added directory element "dll_intranet"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIVCC\05-Implantacao\Build@@\main\1"
+  created 2019-05-02T09:59:59-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIVCC"
+  Element Protection:
+    User : CORPCAIXA\c098443 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIVOC\05-Implantacao\Build@@\main\1"
+  created 2019-08-13T09:47:53-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIVOC"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c046083 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIWCT\05-Implantacao\Build@@\main\1"
+  created 2021-09-23T10:03:19-03:00 by f548176.Domain Users@CBRSVAPRNT005
+  "Importando Estrutura de pastas para a VOB SIWCT"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c066331 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIWEB\05-Implantacao\Build@@\main\1"
+  created 2013-08-22T12:15:00-03:00 by c105244.Domain Users@DF7390ET229
+  "Criação de Diretórios"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIWEG\05-Implantacao\Build@@\main\1"
+  created 2013-10-29T09:25:40-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIWLO\05-Implantacao\Build@@\main\2"
+  created 2015-08-10T19:47:06-03:00 by f714364.G CD7390 GLOBALWEB@CXEXTRNT259
+  "
+   Inserção de arquivo para atender a demanda RTC662888_BR201501629
+    
+   Added file element "loterias_pub.war"."
+  Element Protection:
+    User : CORPCAIXA\c024894 : rwx
+    Group: CORPCAIXA\G DF7390 TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+directory version "SIWPC\05-Implantacao\Build@@\main\17"
+  created 2022-01-03T15:36:12-03:00 by Rafael Campelo Macedo (c142923.Domain Users@DF7390ET537)
+  "Added directory element "Caixa_Cultural"."
+  Element Protection:
+    User : CORPCAIXA\c071310 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\16
+directory version "SIWPS\05-Implantacao\Build@@\main\1"
+  created 2013-06-19T14:26:18-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\G DF5222 CC_TODOS_ESCRITA : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SIXPE\05-Implantacao\Build@@\main\1"
+  created 2018-09-26T15:39:40-03:00 by f548176.Domain Users@cbrdeaprnt002
+  "Importando Estrutura de pastas para a VOB SIXPE"
+  Element Protection:
+    User : CORPCAIXA\c134580 : rwx
+    Group: CORPCAIXA\G DF5088 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SUAAC\05-Implantacao\Build@@\main\15"
+  created 2018-06-26T12:25:35-03:00 by f553531.G CR7265 FAB GLOBALWEB@cxextrnt287
+  "Fonte ACCaixa Livre
+    
+   Added file element "fonteACCAIXA.rar"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\14
+  Labels:
+    MIGRACAO_GIT
+directory version "SUACV\05-Implantacao\Build@@\main\8"
+  created 2015-05-07T18:24:07-03:00 by f901894.G CR7265 FAB GLOBALWEB@cxextrnt287
+  "Pacote ear para deploy do visaoAC
+    
+   Added file element "visaoAC_Pacote para deploy.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\7
+  Labels:
+    MIGRACAO_GIT
+directory version "SUATC\05-Implantacao\Build@@\main\2"
+  created 2012-08-23T16:30:25-03:00 by João Carlos Veiga da Silva (F952764.Domain Users@cxextrnt287)
+  "Inclusão do arquivo zip
+    
+   Added file element "siicp-framework-icp.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1
+  Labels:
+    MIGRACAO_GIT
+directory version "SUCLL\05-Implantacao\Build@@\main\1"
+  created 2012-06-27T15:29:47-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SUCSP\05-Implantacao\Build@@\main\1"
+  created 2012-06-27T17:36:31-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SUEPG\05-Implantacao\Build@@\main\3"
+  created 2013-08-23T14:52:13-03:00 by Estevao Luiz Ribeiro de Andrade (F922564.Domain Users@CXEXTRNT234)
+  "Entrega de artefato
+    
+   Added file element "Build_Sinot.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SUMPG\05-Implantacao\Build@@\main\1"
+  created 2011-11-25T08:26:02-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SUOCO\05-Implantacao\Build@@\main\3"
+  created 2018-04-19T13:43:33-03:00 by f625824.G RJ7265 FAB BRQ_FSW@cxextrnt287
+  " 
+   Uncataloged file element "build_grdeInternet.zip"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\2
+directory version "SUSAO\05-Implantacao\Build@@\main\1"
+  created 2011-11-24T16:17:00-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SUSIP\05-Implantacao\Build@@\main\1"
+  created 2011-11-25T12:27:01-03:00 by s540401.Domain Users@CXEXTRNT118
+  "created by clearfsimport"
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\0
+directory version "SUSUF\05-Implantacao\Build@@\main\2"
+  created 2012-07-09T16:13:17-03:00 by s540401.Domain Users@CXEXTRNT118
+  "Added directory element "SISUP"."
+  protected by rolemap: "DefaultRolemap"
+  effective access for user "f541364": rmver,mod-label,Change
+  Element Protection:
+    User : CORPCAIXA\s726008 : rwx
+    Group: CORPCAIXA\g cr7265 todos_escrita : rwx
+    Other:          : r-x
+  element type: directory
+  predecessor version: \main\1

@@ -1,0 +1,28 @@
+FROM python:3.10.4
+
+ENV VIRTUAL_ENV=/env_Clearcase
+RUN python3 -m venv $VIRTUAL_ENV
+ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+
+# Install dependencies:
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+
+RUN pip list
+
+# Run the application:
+COPY servidor.py .
+COPY BancodeDados.py .
+COPY Clearcase.db .
+
+CMD ["python3", "servidor.py"]
+
+-------------------
+
+FROM python:3.10.4
+
+WORKDIR /app
+
+COPY teste.py .
+
+CMD ["python", "teste.py"]

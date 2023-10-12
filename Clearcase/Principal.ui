@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TelaPrincipal</class>
+ <widget class="QDialog" name="TelaPrincipal">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="modal">
+   <bool>false</bool>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>371</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Manutenção</string>
+   </property>
+   <widget class="QPushButton" name="Btn_Atualiza_Base">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Atualizar Base de Dados</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Gera_Planilha_Grupos">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>20</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Gerar Arquivos com Grupos</string>
+    </property>
+    <property name="default">
+     <bool>false</bool>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>10</y>
+     <width>801</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Ações</string>
+   </property>
+   <widget class="QPushButton" name="Btn_Troca_Comunidade">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Trocar Comunidade</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Troca_Fabrica">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>20</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Trocar Fábrica</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Troca_GC">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>20</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Trocar GC</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Troca_GC_5">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>20</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>XXXXX</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Troca_GC_6">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>20</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>YYYYYY</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QTableWidget" name="Tabela_VOBs">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>130</y>
+     <width>1031</width>
+     <height>621</height>
+    </rect>
+   </property>
+   <property name="editTriggers">
+    <set>QAbstractItemView::NoEditTriggers</set>
+   </property>
+   <property name="selectionMode">
+    <enum>QAbstractItemView::SingleSelection</enum>
+   </property>
+   <property name="selectionBehavior">
+    <enum>QAbstractItemView::SelectRows</enum>
+   </property>
+   <row>
+    <property name="text">
+     <string/>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>VOB</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Comunidade</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Fábrica</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Servidor</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QLabel" name="Label_Progresso_2">
+   <property name="geometry">
+    <rect>
+     <x>828</x>
+     <y>762</y>
+     <width>131</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Registros Encontrados: </string>
+   </property>
+  </widget>
+  <widget class="QLCDNumber" name="LCD_Qtde_Registros">
+   <property name="geometry">
+    <rect>
+     <x>970</x>
+     <y>760</y>
+     <width>71</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::Panel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <property name="lineWidth">
+    <number>1</number>
+   </property>
+   <property name="midLineWidth">
+    <number>0</number>
+   </property>
+   <property name="mode">
+    <enum>QLCDNumber::Dec</enum>
+   </property>
+   <property name="segmentStyle">
+    <enum>QLCDNumber::Flat</enum>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>74</y>
+     <width>1181</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Filtros</string>
+   </property>
+   <widget class="QComboBox" name="Cbo_Fabricas">
+    <property name="geometry">
+     <rect>
+      <x>399</x>
+      <y>19</y>
+      <width>221</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>21</y>
+      <width>41</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Servidor</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="Cbo_Comunidades">
+    <property name="geometry">
+     <rect>
+      <x>76</x>
+      <y>19</y>
+      <width>261</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>357</x>
+      <y>21</y>
+      <width>41</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Fábrica</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>21</y>
+      <width>61</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Comunidade</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="Cbo_Servidores">
+    <property name="geometry">
+     <rect>
+      <x>688</x>
+      <y>19</y>
+      <width>151</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Btn_Filtro">
+    <property name="geometry">
+     <rect>
+      <x>1049</x>
+      <y>13</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Filtrar</string>
+    </property>
+    <property name="default">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>861</x>
+      <y>19</y>
+      <width>21</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>VOB</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="Txt_VOB">
+    <property name="geometry">
+     <rect>
+      <x>891</x>
+      <y>18</y>
+      <width>141</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="autoFillBackground">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="Btn_Exibir_DESC">
+   <property name="geometry">
+    <rect>
+     <x>1050</x>
+     <y>130</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Exibir DESC</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Btn_Exibir_Compartilhamento">
+   <property name="geometry">
+    <rect>
+     <x>1050</x>
+     <y>180</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Exibir Compartilhamento</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Btn_Troca_GC_4">
+   <property name="geometry">
+    <rect>
+     <x>1050</x>
+     <y>230</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>XXXXXX</string>
+   </property>
+  </widget>
+  <widget class="QPlainTextEdit" name="Txt_Detalhes">
+   <property name="geometry">
+    <rect>
+     <x>157</x>
+     <y>221</y>
+     <width>731</width>
+     <height>361</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Btn_Sair_Detalhes">
+   <property name="geometry">
+    <rect>
+     <x>487</x>
+     <y>601</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Sair</string>
+   </property>
+  </widget>
+  <zorder>Tabela_VOBs</zorder>
+  <zorder>groupBox</zorder>
+  <zorder>groupBox_2</zorder>
+  <zorder>Label_Progresso_2</zorder>
+  <zorder>LCD_Qtde_Registros</zorder>
+  <zorder>groupBox_4</zorder>
+  <zorder>Btn_Exibir_DESC</zorder>
+  <zorder>Btn_Exibir_Compartilhamento</zorder>
+  <zorder>Btn_Troca_GC_4</zorder>
+  <zorder>Txt_Detalhes</zorder>
+  <zorder>Btn_Sair_Detalhes</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
