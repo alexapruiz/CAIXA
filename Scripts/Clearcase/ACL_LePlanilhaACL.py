@@ -1,8 +1,6 @@
 #Importando as bibliotecas
 import os
 import sys
-import openpyxl
-
 
 def LePlanilhaACL():
 	# Le a planilha de Controle e extrai as VOBs, por comunidade

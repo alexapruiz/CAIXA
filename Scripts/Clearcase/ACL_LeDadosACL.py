@@ -54,7 +54,7 @@ def GeraArquivosACL():
 		cursor_comunidades = BancodeDados.ConsultaSQL("SELECT DISTINCT(comunidade) FROM VOBs where COMUNIDADE IS NOT NULL AND COMUNIDADE <> '' ORDER BY COMUNIDADE")
 		COMUNIDADES = cursor_comunidades.fetchone()
 		while COMUNIDADES:
-			# Para cada comunidade, criar a pasta e pesquisar pelas fábricas
+			# Para cada comunidade, criar a pasta e pesquisar pelas f?bricas
 			COMUNIDADE = COMUNIDADES[0].strip()
 
 			os.mkdir(caminho + f"\\Arquivos\\ACL\\{COMUNIDADE}")
@@ -177,4 +177,4 @@ BancodeDados = SQLite(f"{caminho}\\Clearcase.db")
 # Gera a planilha com as VOBs e os grupos
 GeraArquivosACL()
 
-print("O arquivo com as informações dos grupos (ACL) foram gerados com sucesso!!!")
+print("O arquivo com as informa??es dos grupos (ACL) foram gerados com sucesso!!!")
