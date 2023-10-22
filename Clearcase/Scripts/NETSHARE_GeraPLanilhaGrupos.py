@@ -48,7 +48,7 @@ def LeDados_NETSHARE(arquivo):
 
 
 def Atualiza_Base():
-    # Executa os comandos, gera os arquivos e atualiza a base de dados
+    # Limpa as tabelas e le os dados do LSVOB com a VOB e o servidor, depois le o arquivo DESC e atualiza a COMUNIDADE / FABRICA
 	print("Limpando as tabelas...")
 
 	BancodeDados.ExecutaComandoSQL(f"DELETE FROM VOBS")
@@ -378,13 +378,10 @@ if os.path.exists(caminho + "\\Arquivos\\Grupos_Clearcase.xlsx"):
 if not os.path.exists(caminho + "\\Arquivos"):
 	os.makedirs(caminho + "\\Arquivos")
 
-# Atualiza a base local com os arquivos de entrada
 #Atualiza_Base()
 
-# Gera a planilha com os grupos
 #GeraPlanilhaGrupos_Excel()
 
-# Gera a planilha com as VOBs
 #GeraPlanilhaVOBs_Excel()
 
 # Gera a planilha com as VOBs e os grupos
