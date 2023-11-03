@@ -12,10 +12,10 @@ saida_SP = open(sys.path[0] + "\\Arquivos\\Comandos_Remocao_Grupos_SP.txt",mode=
 saida_RJ = open(sys.path[0] + "\\Arquivos\\Comandos_Remocao_Grupos_RJ.txt",mode='w',encoding='UTF-8')
 saida_CEPEM = open(sys.path[0] + "\\Arquivos\\Comandos_Remocao_Grupos_CEPEM.txt",mode='w',encoding='UTF-8')
 
-VOB=""
-SERVIDOR=""
-COMUNIDADE=""
-FABRICA=""
+VOB = ""
+SERVIDOR = ""
+COMUNIDADE = ""
+FABRICA = ""
 ACL_ATIVADO = False
 Possui_Grupos_Errados = False
 
